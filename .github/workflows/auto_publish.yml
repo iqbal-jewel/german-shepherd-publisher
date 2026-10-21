@@ -1,0 +1,42 @@
+name: Auto Publish to Facebook & Instagram
+
+on:
+  schedule:
+    # 8:30 AM EST = 12:30 UTC
+    # 1:30 PM EST = 17:30 UTC
+    # 7:30 PM EST = 23:30 UTC
+    - cron: '30 12,17,23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run publishing job
+        env:
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          IG_ACCOUNT_ID: ${{ secrets.IG_ACCOUNT_ID }}
+        run: python publish_job.py
+
+      - name: Commit updated content queue
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add content_queue.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update published queue" && git push)
