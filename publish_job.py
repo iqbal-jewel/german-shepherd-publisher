@@ -7,11 +7,11 @@ import urllib.parse
 from datetime import datetime
 
 # Credentials from environment (set in GitHub Secrets)
-FB_PAGE_ID = os.getenv("FB_PAGE_ID", "1393452917180828")
-IG_ACCOUNT_ID = os.getenv("IG_ACCOUNT_ID", "17841417121544192")
+FB_PAGE_ID = os.getenv("FB_PAGE_ID") or "1393452917180828"
+IG_ACCOUNT_ID = os.getenv("IG_ACCOUNT_ID") or "17841417121544192"
 META_TOKEN = os.getenv("META_PAGE_ACCESS_TOKEN")
-GITHUB_REPO = os.getenv("GITHUB_REPOSITORY", "iqbal-jewel/german-shepherd-publisher")
-GITHUB_REF_NAME = os.getenv("GITHUB_REF_NAME", "main")
+GITHUB_REPO = os.getenv("GITHUB_REPOSITORY") or "iqbal-jewel/german-shepherd-publisher"
+GITHUB_REF_NAME = os.getenv("GITHUB_REF_NAME") or "main"
 
 GRAPH_API_VERSION = "v21.0"
 BASE_URL = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
@@ -109,7 +109,7 @@ def main():
     # Find next pending item
     next_item = None
     for item in queue:
-        if item.get("status") in ["pending", "ready_to_schedule", "scheduled_on_facebook"]:
+        if item.get("status") in ["ready", "pending", "ready_to_schedule", "scheduled_on_facebook"]:
             # If it's already published on both, skip
             if item.get("instagram_published") and item.get("facebook_published"):
                 continue
