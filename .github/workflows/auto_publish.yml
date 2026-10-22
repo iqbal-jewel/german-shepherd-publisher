@@ -2,10 +2,8 @@ name: Auto Publish to Facebook & Instagram
 
 on:
   schedule:
-    # 8:30 AM EST = 12:30 UTC
-    # 1:30 PM EST = 17:30 UTC
-    # 7:30 PM EST = 23:30 UTC
-    - cron: '30 12,17,23 * * *'
+    # Runs every 30 minutes to check if any scheduled post is due or pending
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -39,4 +37,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add content_queue.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update published queue" && git push)
+          git diff --quiet && git diff --staged --quiet || (git pull --rebase origin main && git commit -m "chore: update published queue" && git push origin main)

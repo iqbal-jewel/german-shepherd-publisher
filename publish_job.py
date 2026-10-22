@@ -4,7 +4,7 @@ import json
 import time
 import urllib.request
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Credentials from environment (set in GitHub Secrets)
 FB_PAGE_ID = os.getenv("FB_PAGE_ID") or "1393452917180828"
@@ -106,19 +106,31 @@ def main():
     with open(QUEUE_FILE, "r", encoding="utf-8") as f:
         queue = json.load(f)
 
-    # Find next pending item
-    next_item = None
-    for item in queue:
-        if item.get("status") in ["ready", "pending", "ready_to_schedule", "scheduled_on_facebook"]:
-            # If it's already published on both, skip
-            if item.get("instagram_published") and item.get("facebook_published"):
-                continue
-            next_item = item
-            break
+    now_unix = int(time.time())
+    print(f"Current UTC Timestamp: {now_unix}")
 
-    if not next_item:
-        print("No pending posts found in queue. All caught up!")
+    # Find next due item (due if timestamp_unix <= now + 300s buffer)
+    due_items = []
+    for item in queue:
+        if item.get("facebook_published") and item.get("instagram_published"):
+            continue
+        if item.get("status") == "published":
+            continue
+        
+        ts = item.get("timestamp_unix")
+        if ts is None or ts <= (now_unix + 300):
+            due_items.append(item)
+
+    if not due_items:
+        upcoming = [i for i in queue if not (i.get("facebook_published") and i.get("instagram_published")) and i.get("status") != "published"]
+        if upcoming:
+            next_up = upcoming[0]
+            print(f"No posts currently due. Next post '{next_up.get('title')}' is scheduled for {next_up.get('time_est')} (Unix: {next_up.get('timestamp_unix')}).")
+        else:
+            print("All posts in queue have been published!")
         sys.exit(0)
+
+    next_item = due_items[0]
 
     print(f"Processing post: '{next_item.get('title')}' for slot {next_item.get('time_est')}...")
     caption = next_item.get("caption")
@@ -151,7 +163,7 @@ def main():
             print(f"  -> Instagram Error: {e}")
 
     next_item["status"] = "published"
-    next_item["published_at_utc"] = datetime.utcnow().isoformat()
+    next_item["published_at_utc"] = datetime.now(timezone.utc).isoformat()
 
     with open(QUEUE_FILE, "w", encoding="utf-8") as f:
         json.dump(queue, f, indent=2)
