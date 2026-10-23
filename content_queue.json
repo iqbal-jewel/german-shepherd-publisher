@@ -197,7 +197,13 @@
     "image_path": "content_assets/day2_radar_ears_club.jpg",
     "caption": "Pop quiz: which sound gets your shepherd running the fastest? 📡\n\n1️⃣ The snack drawer  2️⃣ The leash clip  3️⃣ Car keys\n\nVote with a 1, 2 or 3 below! 👇\n\n#gsdears #pointyearsclub #germanshepherdoftheday #gsdcommunity #shepherdears",
     "timestamp_unix": 1792798200,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122094284373530446",
+    "published_at_utc": "2026-10-23T23:30:58.425603+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18496162786128065"
   },
   {
     "day": 2,
