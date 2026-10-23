@@ -85,7 +85,13 @@
     "image_path": "content_assets/day2_personal_space_meme.jpg",
     "caption": "Alert mode: 50% loaded. 📡\n\nThose radar ears hear a cheese wrapper being opened from three rooms away and two miles down the road.\n\nDid your shepherd keep the puppy half-flop or go full satellite dish? Show us those ears in the comments! 👇🐾\n\n#germanshepherdpuppy #gsdears #pointyearsclub #gsdcommunity #germanshepherdoftheday",
     "timestamp_unix": 1792758600,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122094023163530446",
+    "published_at_utc": "2026-10-23T12:30:48.526921+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18010653654001339"
   },
   {
     "day": 2,
