@@ -161,7 +161,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792787400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: The Full Name Is German Shepherd Dog",
@@ -173,7 +173,13 @@
       "photographer": "Ruben Ascensao"
     },
     "duration": 12,
-    "caption": "Now you know. 🐕\n\nWhat do you call yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#canislupus #shepherdpower #germanshepherd #gsdguarddog #gsdtraining"
+    "caption": "Now you know. 🐕\n\nWhat do you call yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#canislupus #shepherdpower #germanshepherd #gsdguarddog #gsdtraining",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1438090835080482",
+    "published_at_utc": "2026-10-23T21:05:26.169041+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18108826346144901"
   },
   {
     "day": 2,
