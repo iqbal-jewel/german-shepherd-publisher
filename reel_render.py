@@ -80,9 +80,9 @@ def render_reel(src_path, kind, hook, payoff, out_path, duration=12, cta=FOLLOW,
     text = (
         f"drawtext=textfile={hook_f}:{style}:fontsize=82:x=(w-text_w)/2:y=200:enable='between(t,0.3,{t_pay})',"
         f"drawtext=textfile={pay_f}:{style}:fontsize=76:x=(w-text_w)/2:y=200:enable='between(t,{t_pay},{t_cta})',"
-        f"drawbox=x=60:y=1420:w=960:h=250:color=black@0.55:t=fill:enable='gte(t,{t_cta})',"
-        f"drawtext=textfile={cta_f}:fontfile={FONT}:fontcolor=#FFD84D:borderw=5:bordercolor=black:line_spacing=12:"
-        f"text_align=center:fontsize=64:x=(w-text_w)/2:y=1465:enable='gte(t,{t_cta})'"
+        f"drawbox=x=190:y=1560:w=700:h=116:color=black@0.5:t=fill:enable='gte(t,{t_cta})',"
+        f"drawtext=textfile={cta_f}:fontfile={FONT}:fontcolor=#FFD84D:borderw=3:bordercolor=black:line_spacing=8:"
+        f"text_align=center:fontsize=33:x=(w-text_w)/2:y=1580:enable='gte(t,{t_cta})'"
     )
     if kind == "photo":
         fc = (
