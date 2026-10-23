@@ -2,16 +2,23 @@ name: Auto Publish to Facebook & Instagram
 
 on:
   schedule:
-    # Runs every 30 minutes to check if any scheduled post is due or pending
-    - cron: '*/30 * * * *'
+    # Every 15 minutes (off the top of the hour, which GitHub throttles most).
+    # Each run posts at most one due item, so three slots a day fill in order.
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Never let two runs overlap: overlapping runs are what causes duplicate posts.
+concurrency:
+  group: auto-publish
+  cancel-in-progress: false
+
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -22,9 +29,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests
-
       - name: Run publishing job
         env:
           META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
@@ -32,9 +36,26 @@ jobs:
           IG_ACCOUNT_ID: ${{ secrets.IG_ACCOUNT_ID }}
         run: python publish_job.py
 
+      # always(): the queue must be saved even when the job above exits with an error,
+      # otherwise the next run would not know what was already posted.
       - name: Commit updated content queue
+        if: always()
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add content_queue.json
-          git diff --quiet && git diff --staged --quiet || (git pull --rebase origin main && git commit -m "chore: update published queue" && git push origin main)
+          if git diff --staged --quiet; then
+            echo "Queue unchanged."
+            exit 0
+          fi
+          git commit -m "chore: update published queue"
+          for attempt in 1 2 3 4; do
+            if git pull --rebase -X theirs origin main && git push origin main; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "Could not save the queue after 4 attempts."
+          exit 1
