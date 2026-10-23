@@ -199,7 +199,7 @@ def last_published_unix(queue):
     return latest
 
 
-def main():
+def run_once():
     missing = [n for n, v in (("META_PAGE_ACCESS_TOKEN", META_TOKEN), ("FB_PAGE_ID", FB_PAGE_ID),
                               ("IG_ACCOUNT_ID", IG_ACCOUNT_ID)) if not v]
     if missing:
@@ -208,6 +208,10 @@ def main():
     if not os.path.exists(QUEUE_FILE):
         print(f"ERROR: {QUEUE_FILE} not found.")
         sys.exit(1)
+    return _pass()
+
+
+def _pass():
 
     with open(QUEUE_FILE, "r", encoding="utf-8") as f:
         queue = json.load(f)
@@ -238,7 +242,7 @@ def main():
             print(f"Nothing due. Next: '{nxt['title']}' at {nxt['date_str']} {nxt['time_est']}.")
         else:
             print("Queue is empty: add more posts to content_queue.json.")
-        return
+        return 0, False
 
     # Guard against re-posting something that is already live (e.g. a run that posted but could not save).
     fb_live, ig_live = live_captions()
@@ -335,8 +339,51 @@ def main():
                and i["timestamp_unix"] < now - OVERDUE_ALERT_SECONDS]
     for i in overdue:
         print(f"ALERT: overdue by {(now - i['timestamp_unix']) // 60} min: '{i['title']}' ({i['date_str']} {i['time_est']})")
-    if errors or overdue:
-        sys.exit(1)
+    return errors, bool(overdue)
+
+
+def commit_queue(message):
+    """Save the queue to GitHub right away (loop mode), so a crash can never lose what was already posted."""
+    import subprocess
+    run = lambda *a: subprocess.run(a, capture_output=True, text=True)  # noqa: E731
+    run("git", "add", QUEUE_FILE)
+    if run("git", "diff", "--staged", "--quiet").returncode == 0:
+        return
+    run("git", "-c", "user.name=github-actions[bot]", "-c", "user.email=github-actions[bot]@users.noreply.github.com",
+        "commit", "-m", message)
+    for attempt in range(4):
+        r = run("git", "pull", "--rebase", "-X", "theirs", "origin", "main")
+        if r.returncode == 0 and run("git", "push", "origin", "main").returncode == 0:
+            return
+        run("git", "rebase", "--abort")
+        time.sleep(3 * (attempt + 1))
+    print("WARNING: could not push the queue; the end-of-run commit step will retry.")
+
+
+def main():
+    """One pass by default. With --loop N the job stays alive for N minutes and checks the queue every
+    minute, so posts go out within about a minute of their slot even when GitHub drops scheduled runs."""
+    args = sys.argv[1:]
+    if "--loop" not in args:
+        errors, overdue = run_once()
+        sys.exit(1 if (errors or overdue) else 0)
+    minutes = float(args[args.index("--loop") + 1])
+    deadline = time.time() + minutes * 60
+    total_errors, last_overdue = 0, False
+    while time.time() < deadline:
+        before = open(QUEUE_FILE, "rb").read()
+        try:
+            errors, last_overdue = run_once()
+            total_errors += errors
+        except SystemExit:
+            raise
+        except Exception as e:  # keep the loop alive through any unexpected problem
+            total_errors += 1
+            print(f"Unexpected error: {e}")
+        if open(QUEUE_FILE, "rb").read() != before:
+            commit_queue("chore: update published queue")
+        time.sleep(60)
+    sys.exit(1 if (total_errors and last_overdue) or last_overdue else 0)
 
 
 if __name__ == "__main__":

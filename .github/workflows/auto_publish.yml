@@ -1,16 +1,18 @@
 name: Auto Publish to Facebook & Instagram
 
+# GitHub drops most scheduled (cron) runs, so the schedule is only a restart signal.
+# Each run stays alive for about 5.5 hours and checks the queue every minute, then starts its own
+# successor. If the chain ever breaks, the next cron tick or a manual "Run workflow" starts it again.
 on:
   schedule:
-    # Every 5 minutes (GitHub's minimum). GitHub often delays or skips scheduled runs, so the job
-    # catches up on anything due: each run posts at most one due item, oldest first.
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
-# Never let two runs overlap: overlapping runs are what causes duplicate posts.
+# One run at a time: overlapping runs are what causes duplicate posts. Extra triggers just wait.
 concurrency:
   group: auto-publish
   cancel-in-progress: false
@@ -18,7 +20,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 350
 
     steps:
       - name: Checkout repository
@@ -29,13 +31,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run publishing job
+      - name: Run publishing loop
         env:
           META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           IG_ACCOUNT_ID: ${{ secrets.IG_ACCOUNT_ID }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: python publish_job.py
+        run: python publish_job.py --loop 330
 
       # always(): the queue must be saved even when the job above exits with an error,
       # otherwise the next run would not know what was already posted.
@@ -60,3 +62,10 @@ jobs:
           done
           echo "Could not save the queue after 4 attempts."
           exit 1
+
+      # Start the next run; it waits for this one to finish, so there is no gap and no overlap.
+      - name: Start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run auto_publish.yml --repo "$GITHUB_REPOSITORY" --ref main

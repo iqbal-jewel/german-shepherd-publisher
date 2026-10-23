@@ -90,6 +90,32 @@
   {
     "day": 2,
     "date_str": "2026-10-23",
+    "slot": "reel1",
+    "time_est": "10:30 AM ET",
+    "utc_hour": 14,
+    "utc_minute": 30,
+    "platforms": [
+      "facebook",
+      "instagram"
+    ],
+    "timestamp_unix": 1792765800,
+    "status": "ready",
+    "type": "reel",
+    "content_type": "reel_humor",
+    "title": "Friday Mood: My Shepherd",
+    "hook": "FRIDAY MOOD: MY SHEPHERD",
+    "payoff": "Zero chores. Maximum zoomies. Official weekend mode.",
+    "source": {
+      "kind": "photo",
+      "id": 9470805,
+      "photographer": "Imad Clicks"
+    },
+    "duration": 12,
+    "caption": "Friday means zoomies. 🎉\n\nHow does yours celebrate the weekend?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsd #gsdlife #germanshepherdfunny #gsdhumor"
+  },
+  {
+    "day": 2,
+    "date_str": "2026-10-23",
     "slot": "afternoon",
     "time_est": "01:30 PM EST",
     "utc_hour": 17,
@@ -108,6 +134,32 @@
   {
     "day": 2,
     "date_str": "2026-10-23",
+    "slot": "reel2",
+    "time_est": "4:30 PM ET",
+    "utc_hour": 20,
+    "utc_minute": 30,
+    "platforms": [
+      "facebook",
+      "instagram"
+    ],
+    "timestamp_unix": 1792787400,
+    "status": "ready",
+    "type": "reel",
+    "content_type": "reel_fact",
+    "title": "Fact: The Full Name Is German Shepherd Dog",
+    "hook": "FACT: THE FULL NAME IS GERMAN SHEPHERD DOG",
+    "payoff": "Owners everywhere shorten it to GSD.",
+    "source": {
+      "kind": "photo",
+      "id": 10067862,
+      "photographer": "Ruben Ascensao"
+    },
+    "duration": 12,
+    "caption": "Now you know. 🐕\n\nWhat do you call yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#canislupus #shepherdpower #germanshepherd #gsdguarddog #gsdtraining"
+  },
+  {
+    "day": 2,
+    "date_str": "2026-10-23",
     "slot": "evening",
     "time_est": "07:30 PM EST",
     "utc_hour": 23,
@@ -122,6 +174,32 @@
     "caption": "Pop quiz: which sound gets your shepherd running the fastest? 📡\n\n1️⃣ The snack drawer  2️⃣ The leash clip  3️⃣ Car keys\n\nVote with a 1, 2 or 3 below! 👇\n\n#gsdears #pointyearsclub #germanshepherdoftheday #gsdcommunity #shepherdears",
     "timestamp_unix": 1792798200,
     "status": "ready"
+  },
+  {
+    "day": 2,
+    "date_str": "2026-10-23",
+    "slot": "reel3",
+    "time_est": "9:30 PM ET",
+    "utc_hour": 1,
+    "utc_minute": 30,
+    "platforms": [
+      "facebook",
+      "instagram"
+    ],
+    "timestamp_unix": 1792805400,
+    "status": "ready",
+    "type": "reel",
+    "content_type": "reel_tip",
+    "title": "Tip: Give Your Shepherd A Job Today",
+    "hook": "TIP: GIVE YOUR SHEPHERD A JOB TODAY",
+    "payoff": "Find hidden treats, fetch slippers, carry a toy. Smart dogs love a task.",
+    "source": {
+      "kind": "photo",
+      "id": 11533297,
+      "photographer": "Inge Van den Heuvel"
+    },
+    "duration": 12,
+    "caption": "A job a day keeps boredom away. 💼\n\nWhat's your dog's job?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsdguarddog #gsdtraining #schutzhund #k9unit"
   },
   {
     "day": 3,
