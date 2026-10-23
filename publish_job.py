@@ -19,10 +19,12 @@ BASE_URL = "https://graph.facebook.com/v21.0"
 QUEUE_FILE = "content_queue.json"
 
 # Scheduling rules
-MIN_GAP_SECONDS = 90 * 60       # never publish two posts closer than this (spreads catch-up)
-STALE_SECONDS = 30 * 3600       # a slot missed by more than this is skipped, not posted late
+MIN_GAP_SECONDS = 30 * 60       # never publish two posts closer than this (spreads out a catch-up)
+STALE_SECONDS = 36 * 3600       # a slot missed by more than this is skipped, not posted late
+OVERDUE_ALERT_SECONDS = 90 * 60  # a due post this late makes the run fail so GitHub emails you
+MAX_ATTEMPTS = 20               # a post failing this many times stops retrying and is flagged
 MAX_POSTS_PER_RUN = 1
-SKIP_STATUSES = ("published", "withdrawn", "missed")
+SKIP_STATUSES = ("published", "withdrawn", "missed", "failed")
 
 
 class MetaError(Exception):
@@ -63,6 +65,12 @@ def live_captions():
     for p in graph("GET", f"{FB_PAGE_ID}/posts", {"fields": "id,message", "limit": 50}).get("data", []):
         if p.get("message"):
             fb[norm(p["message"])] = p["id"]
+    try:  # Reels are listed separately from regular posts
+        for p in graph("GET", f"{FB_PAGE_ID}/video_reels", {"fields": "id,description", "limit": 50}).get("data", []):
+            if p.get("description"):
+                fb[norm(p["description"])] = p["id"]
+    except MetaError as e:
+        print(f"(could not list Facebook reels for the duplicate check: {e})")
     ig = {}
     for p in graph("GET", f"{IG_ACCOUNT_ID}/media", {"fields": "id,caption", "limit": 50}).get("data", []):
         if p.get("caption"):
@@ -105,6 +113,77 @@ def publish_instagram_photo(caption, raw_url):
     if status != "FINISHED":
         raise MetaError(f"Instagram container not ready (last status {status})")
     return graph("POST", f"{IG_ACCOUNT_ID}/media_publish", {"creation_id": creation_id})
+
+
+def upload_binary(url, path):
+    """Resumable-upload endpoints used by Facebook and Instagram Reels (single-chunk upload)."""
+    with open(path, "rb") as f:
+        data = f.read()
+    req = urllib.request.Request(url, data=data, method="POST")
+    req.add_header("Authorization", f"OAuth {META_TOKEN}")
+    req.add_header("offset", "0")
+    req.add_header("file_size", str(len(data)))
+    req.add_header("Content-Type", "application/octet-stream")
+    try:
+        with urllib.request.urlopen(req, timeout=300) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        raise MetaError(f"upload HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:300]}")
+
+
+def publish_facebook_reel(caption, video_path, draft=False):
+    start = graph("POST", f"{FB_PAGE_ID}/video_reels", {"upload_phase": "start"})
+    video_id, upload_url = start.get("video_id"), start.get("upload_url")
+    if not video_id or not upload_url:
+        raise MetaError(f"Facebook reel start failed: {start}")
+    upload_binary(upload_url, video_path)
+    graph("POST", f"{FB_PAGE_ID}/video_reels", {
+        "upload_phase": "finish", "video_id": video_id,
+        "video_state": "DRAFT" if draft else "PUBLISHED", "description": caption})
+    for _ in range(30):
+        time.sleep(5)
+        status = graph("GET", video_id, {"fields": "status"}).get("status", {})
+        if status.get("video_status") == "error":
+            raise MetaError(f"Facebook reel processing error: {status}")
+        if status.get("video_status") in ("ready", "published") or status.get("publishing_phase", {}).get("status") == "complete":
+            break
+    return {"id": video_id}
+
+
+def publish_instagram_reel(caption, video_path, publish=True):
+    container = graph("POST", f"{IG_ACCOUNT_ID}/media", {
+        "media_type": "REELS", "upload_type": "resumable", "caption": caption, "share_to_feed": "true"})
+    creation_id, upload_url = container.get("id"), container.get("uri")
+    if not creation_id or not upload_url:
+        raise MetaError(f"Instagram reel container failed: {container}")
+    upload_binary(upload_url, video_path)
+    status = None
+    for _ in range(40):
+        time.sleep(5)
+        status = graph("GET", creation_id, {"fields": "status_code,status"}).get("status_code")
+        if status == "FINISHED":
+            break
+        if status in ("ERROR", "EXPIRED"):
+            raise MetaError(f"Instagram reel status {status}")
+    if status != "FINISHED":
+        raise MetaError(f"Instagram reel not ready (last status {status})")
+    if not publish:
+        return {"id": creation_id, "unpublished": True}
+    return graph("POST", f"{IG_ACCOUNT_ID}/media_publish", {"creation_id": creation_id})
+
+
+def prepare_reel(item):
+    """Download the Pexels source and render the Reel. Returns the local mp4 path."""
+    import reel_render
+    key = os.getenv("PEXELS_API_KEY")
+    if not key:
+        raise MetaError("PEXELS_API_KEY is missing; cannot render the Reel")
+    src = item["source"]
+    src_path = reel_render.fetch_source(src, key)
+    out = os.path.join(reel_render.WORK, f"reel_{item['timestamp_unix']}.mp4")
+    reel_render.render_reel(src_path, src["kind"], item["hook"], item["payoff"], out, item.get("duration", 12),
+                            music=reel_render.pick_music(item["timestamp_unix"]))
+    return os.path.join(reel_render.ROOT, out)
 
 
 def is_done(item):
@@ -193,18 +272,36 @@ def main():
             continue
 
         if now - last_published_unix(queue) < MIN_GAP_SECONDS:
-            print("Last post was under 90 minutes ago; waiting for the next run.")
+            print("Last post was under 30 minutes ago; waiting for the next run.")
             break
 
-        asset = os.path.basename(item["image_path"])
-        local_image = os.path.join("content_assets", asset)
-        raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_REF_NAME}/content_assets/{asset}"
-        print(f"Posting '{item['title']}' (slot {item['date_str']} {item['time_est']})")
+        is_reel = item.get("type") == "reel"
+        item["attempts"] = item.get("attempts", 0) + 1
+        if item["attempts"] > MAX_ATTEMPTS:
+            item["status"] = "failed"
+            print(f"GIVING UP on '{item['title']}' after {MAX_ATTEMPTS} attempts: {item.get('last_error')}")
+            errors += 1
+            save_queue(queue)
+            continue
+        print(f"Posting {'Reel' if is_reel else 'post'} '{item['title']}' (slot {item['date_str']} {item['time_est']})")
+        if is_reel:
+            try:
+                video_path = prepare_reel(item)
+            except Exception as e:
+                errors += 1
+                item["last_error"] = f"render: {e}"
+                print(f"  Reel render ERROR: {e}")
+                save_queue(queue)
+                continue
+        else:
+            asset = os.path.basename(item["image_path"])
+            local_image = os.path.join("content_assets", asset)
+            raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/{GITHUB_REF_NAME}/content_assets/{asset}"
 
         # Save after every platform so a later failure can never cause a repost.
         if needs_fb:
             try:
-                res = publish_facebook_photo(caption, local_image)
+                res = publish_facebook_reel(caption, video_path) if is_reel else publish_facebook_photo(caption, local_image)
                 item["facebook_published"] = True
                 item["fb_live_id"] = res.get("post_id") or res.get("id")
                 item["published_at_utc"] = datetime.now(timezone.utc).isoformat()
@@ -216,7 +313,7 @@ def main():
             save_queue(queue)
         if needs_ig:
             try:
-                res = publish_instagram_photo(caption, raw_url)
+                res = publish_instagram_reel(caption, video_path) if is_reel else publish_instagram_photo(caption, raw_url)
                 item["instagram_published"] = True
                 item["ig_live_id"] = res.get("id")
                 item["published_at_utc"] = datetime.now(timezone.utc).isoformat()
@@ -231,9 +328,14 @@ def main():
             item["status"] = "published"
             item.pop("last_error", None)
         save_queue(queue)
-        posted += 1
+        if item.get("facebook_published") or item.get("instagram_published"):
+            posted += 1  # a total failure must not block the next due post
 
-    if errors:
+    overdue = [i for i in queue if i.get("status") not in SKIP_STATUSES and not is_done(i)
+               and i["timestamp_unix"] < now - OVERDUE_ALERT_SECONDS]
+    for i in overdue:
+        print(f"ALERT: overdue by {(now - i['timestamp_unix']) // 60} min: '{i['title']}' ({i['date_str']} {i['time_est']})")
+    if errors or overdue:
         sys.exit(1)
 
 

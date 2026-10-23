@@ -1,0 +1,962 @@
+[
+  {
+    "date": "2026-11-05",
+    "weekday": "Thu",
+    "morning": {
+      "title": "The Shadow Rule",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "First Night vs Today",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Official Name vs Ridiculous Nicknames",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-06",
+    "weekday": "Fri",
+    "morning": {
+      "title": "Zero Personal Space",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "He Knew Before I Said Anything",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Friday Photo Thread",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-07",
+    "weekday": "Sat",
+    "morning": {
+      "title": "Bathroom Security Detail",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Never Walking Alone At Night",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Reflective Gear For Dark Walks",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2026-11-08",
+    "weekday": "Sun",
+    "morning": {
+      "title": "The Dramatic Sigh",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The Rescue Glow-Up",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-09",
+    "weekday": "Mon",
+    "morning": {
+      "title": "Kitchen Supervisor",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Sugar Face Is Precious",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "4 Signs Your Shepherd Is Bored",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "weekday": "Tue",
+    "morning": {
+      "title": "Teflon Nose Windows",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The Child And The Guardian",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Weirdest Thing They Stole Off The Counter",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-11",
+    "weekday": "Wed",
+    "morning": {
+      "title": "The 4:59 Dinner Whine",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Veterans Day: Salute To Military And Police K9s",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "K9 Veterans: Tell Us Your Story",
+      "pillar": "seasonal"
+    }
+  },
+  {
+    "date": "2026-11-12",
+    "weekday": "Thu",
+    "morning": {
+      "title": "Fur Vortex Tumbleweed",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The Head On My Lap Year",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "If Your Shepherd Could Talk For 30 Seconds",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-13",
+    "weekday": "Fri",
+    "morning": {
+      "title": "The Stick Enthusiast",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Quiet Hero: The K9 Tribute",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Friday Photo Thread",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-14",
+    "weekday": "Sat",
+    "morning": {
+      "title": "Water Bowl Splash Zone",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Gotcha Day Reflection",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Cold Weather Paw Care",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2026-11-15",
+    "weekday": "Sun",
+    "morning": {
+      "title": "Doorway Patrol Napper",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Protective Instinct Never Sleeps",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-16",
+    "weekday": "Mon",
+    "morning": {
+      "title": "The Pizza Stare",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Coming Home Joy",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Snuffle Mat Brain Game",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-11-17",
+    "weekday": "Tue",
+    "morning": {
+      "title": "The Ball Hoarder",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Slower Pace, More Devotion",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Their Most Iconic Head Tilt",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-18",
+    "weekday": "Wed",
+    "morning": {
+      "title": "Post-Bath Zoomies",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "I've Got Your Back Eye Contact",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Hide-And-Seek Brain Game",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-11-19",
+    "weekday": "Thu",
+    "morning": {
+      "title": "Vacuum Standoff",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Loving This Breed Changes You",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "When Did The Land Shark Phase End?",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-20",
+    "weekday": "Fri",
+    "morning": {
+      "title": "Head Tilt Olympics",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Bred To Work: The 1899 Story",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Friday Photo Thread",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-21",
+    "weekday": "Sat",
+    "morning": {
+      "title": "The Pouting Masterclass",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Captain Max von Stephanitz",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Foods To Avoid At The Holidays",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2026-11-22",
+    "weekday": "Sun",
+    "morning": {
+      "title": "The 95 lb Lap Dog Delusion",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Why Shepherds Become K9 Partners",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-23",
+    "weekday": "Mon",
+    "morning": {
+      "title": "Cheese Wrapper Radar",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Black And Tan Saddle Pride",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Never Shave A Double Coat",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-11-24",
+    "weekday": "Tue",
+    "morning": {
+      "title": "Assembled Without Instructions",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "All-Black Shepherds Appreciation",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Where Does Your Shepherd Sleep?",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-25",
+    "weekday": "Wed",
+    "morning": {
+      "title": "Friday Fur Report",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Sable Shepherds Appreciation",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Thanksgiving Foods Dogs Should Avoid",
+      "pillar": "seasonal"
+    }
+  },
+  {
+    "date": "2026-11-26",
+    "weekday": "Thu",
+    "morning": {
+      "title": "Treat Math",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Thanksgiving: Grateful For My Shepherd",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "What Is Your Shepherd Thankful For?",
+      "pillar": "seasonal"
+    }
+  },
+  {
+    "date": "2026-11-27",
+    "weekday": "Fri",
+    "morning": {
+      "title": "Backseat Driver",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "White Shepherds Appreciation",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Friday Photo Thread",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-28",
+    "weekday": "Sat",
+    "morning": {
+      "title": "Lint Roller Count",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Working Line vs Show Line",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Cooked Bones Are Dangerous",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2026-11-29",
+    "weekday": "Sun",
+    "morning": {
+      "title": "The Drama Queen Limp",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The Gentle Giant Moment",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-11-30",
+    "weekday": "Mon",
+    "morning": {
+      "title": "Mailman Conspiracy",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Sunrise Walk Bond",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Coat Blow Season Routine",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-01",
+    "weekday": "Tue",
+    "morning": {
+      "title": "Squirrel Surveillance",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Giving Tuesday: Shelter Shepherds Need Homes",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Puppy Photo vs Today Glow-Up",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-02",
+    "weekday": "Wed",
+    "morning": {
+      "title": "Zoom Meeting Cameo",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Shepherd And Newborn",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Daily Exercise: Mind And Body",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-03",
+    "weekday": "Thu",
+    "morning": {
+      "title": "The Sock Thief",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The Dog Who Waits At The Window",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Working Line, Show Line Or Rescue Mix?",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-04",
+    "weekday": "Fri",
+    "morning": {
+      "title": "Wait Means Nothing Until Treats",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Rainy Day Loyalty",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Friday Photo Thread",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-05",
+    "weekday": "Sat",
+    "morning": {
+      "title": "Gift Wrap Inspector",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Mountain Trail Companion",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Tinsel And Ribbon Hazards",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2026-12-06",
+    "weekday": "Sun",
+    "morning": {
+      "title": "Midnight Zoomies",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Forest Run Freedom",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-07",
+    "weekday": "Mon",
+    "morning": {
+      "title": "The Sit-Stay Negotiation",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Snow Shepherd Portrait",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Puppy Teething Survival",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-08",
+    "weekday": "Tue",
+    "morning": {
+      "title": "Christmas Tree Supervisor",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Amber Eyes Portrait",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Favorite Toy Of All Time",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-09",
+    "weekday": "Wed",
+    "morning": {
+      "title": "Laundry Basket Nest",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Ears Up Alert Portrait",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "The Socialization Window",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-10",
+    "weekday": "Thu",
+    "morning": {
+      "title": "Couch Real Estate Dispute",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The Quiet Guardian At Night",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Best Trick Your Shepherd Knows",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-11",
+    "weekday": "Fri",
+    "morning": {
+      "title": "The Slow-Motion Betrayal",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Trust Takes Time: Reactive Rescue Journey",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Friday Photo Thread",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-12",
+    "weekday": "Sat",
+    "morning": {
+      "title": "Ornament Guard Duty",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Old Soul Puppy Eyes",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Chocolate And Xylitol Warning",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2026-12-13",
+    "weekday": "Sun",
+    "morning": {
+      "title": "Selective Hearing",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The One-Person Dog",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-14",
+    "weekday": "Mon",
+    "morning": {
+      "title": "Pretending To Be Asleep",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Loyal Through The Storm",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Teaching Place And Settle",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-15",
+    "weekday": "Tue",
+    "morning": {
+      "title": "The Toy Graveyard",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Training Together, Growing Together",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Coat Color Check-In",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-16",
+    "weekday": "Wed",
+    "morning": {
+      "title": "Santa Paws Suspicion",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Their Whole World Is You",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Teaching Leave It",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-17",
+    "weekday": "Thu",
+    "morning": {
+      "title": "Slippery Floor Ballet",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Thank You For Guarding Us",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "First Word They Learned",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-18",
+    "weekday": "Fri",
+    "morning": {
+      "title": "Fetch Rules: Only They Throw",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Thank You, Shepherd Moms And Dads",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Friday Photo Thread",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-19",
+    "weekday": "Sat",
+    "morning": {
+      "title": "Holiday Guest Judgment",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Autumn Leaves Portrait",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Helping A Nervous Dog With Guests",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2026-12-20",
+    "weekday": "Sun",
+    "morning": {
+      "title": "The In-Out-In-Out Door Ritual",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Pumpkin Patch Shepherd",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-21",
+    "weekday": "Mon",
+    "morning": {
+      "title": "The Word We Have To Spell",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Longest Night, Loyal Light",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Loose-Leash Walking Basics",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-22",
+    "weekday": "Tue",
+    "morning": {
+      "title": "Hot Cocoa Stare",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The Hero Who Never Asked For Medals",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Walk Spot Of The Week",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-23",
+    "weekday": "Wed",
+    "morning": {
+      "title": "Sunday Laundry Fur",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Learning A New Trick",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Healthy Weight Protects Joints",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-24",
+    "weekday": "Thu",
+    "morning": {
+      "title": "The I Didn't Do It Face",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Christmas Eve: The Quiet Guard",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Fetch Or Tug?",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-25",
+    "weekday": "Fri",
+    "morning": {
+      "title": "Personal Chef Expectations",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Merry Christmas From The Pack",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Friday Photo Thread",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-26",
+    "weekday": "Sat",
+    "morning": {
+      "title": "The Yawn Squeak",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "The Steady Heartbeat Beside You",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Winter Salt On Paws",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2026-12-27",
+    "weekday": "Sun",
+    "morning": {
+      "title": "Tail Wag Helicopter",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "When They Sense A Bad Day",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-28",
+    "weekday": "Mon",
+    "morning": {
+      "title": "Cold Floor Dramatics",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Their Joy Is Simple",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Nail Trim Tips",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-29",
+    "weekday": "Tue",
+    "morning": {
+      "title": "The Puddle Detour",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Forever A Puppy At Heart",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Couch Or Floor?",
+      "pillar": "community"
+    }
+  },
+  {
+    "date": "2026-12-30",
+    "weekday": "Wed",
+    "morning": {
+      "title": "Leaf Pile Dive",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Fireside Warmth",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Dental Care Basics",
+      "pillar": "wisdom"
+    }
+  },
+  {
+    "date": "2026-12-31",
+    "weekday": "Thu",
+    "morning": {
+      "title": "Poofy Winter Coat Mode",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Winter Walk Breath Clouds",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "New Year's Eve: Calming A Noise-Scared Dog",
+      "pillar": "seasonal"
+    }
+  },
+  {
+    "date": "2027-01-01",
+    "weekday": "Fri",
+    "morning": {
+      "title": "Snow Plow Face",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "New Year, Same Best Friend",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Resolutions Your Shepherd Would Make",
+      "pillar": "seasonal"
+    }
+  },
+  {
+    "date": "2027-01-02",
+    "weekday": "Sat",
+    "morning": {
+      "title": "New Year Resolution: His Treats",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "First Snow Joy",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Antifreeze Danger",
+      "pillar": "safety"
+    }
+  },
+  {
+    "date": "2027-01-03",
+    "weekday": "Sun",
+    "morning": {
+      "title": "The Midweek Mood",
+      "pillar": "humor"
+    },
+    "afternoon": {
+      "title": "Dark Evenings, Same Loyal Walk",
+      "pillar": "loyalty/pride"
+    },
+    "evening": {
+      "title": "Sunday Pack Roll Call",
+      "pillar": "community"
+    }
+  }
+]

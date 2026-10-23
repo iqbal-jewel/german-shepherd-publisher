@@ -2,9 +2,9 @@ name: Auto Publish to Facebook & Instagram
 
 on:
   schedule:
-    # Every 15 minutes (off the top of the hour, which GitHub throttles most).
-    # Each run posts at most one due item, so three slots a day fill in order.
-    - cron: '7,22,37,52 * * * *'
+    # Every 5 minutes (GitHub's minimum). GitHub often delays or skips scheduled runs, so the job
+    # catches up on anything due: each run posts at most one due item, oldest first.
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
@@ -34,7 +34,10 @@ jobs:
           META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           IG_ACCOUNT_ID: ${{ secrets.IG_ACCOUNT_ID }}
-        run: python publish_job.py
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          ffmpeg -version | head -1
+          python publish_job.py
 
       # always(): the queue must be saved even when the job above exits with an error,
       # otherwise the next run would not know what was already posted.
