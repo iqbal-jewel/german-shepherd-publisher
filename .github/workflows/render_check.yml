@@ -15,9 +15,7 @@ jobs:
       - name: Render sample Reels
         env:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: |
-          ffmpeg -version | head -1
-          python tools/render_test.py
+        run: python tools/render_test.py
       - uses: actions/upload-artifact@v4
         with:
           name: sample-reels

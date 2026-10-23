@@ -7,6 +7,7 @@ import json
 import glob
 import os
 import random
+import shutil
 import subprocess
 import textwrap
 import urllib.request
@@ -16,6 +17,15 @@ WORK = ".render"
 FONT = "assets/Anton-Regular.ttf"
 FOLLOW = "FOLLOW @germanshepherdco\nFOR DAILY SHEPHERD CONTENT"
 UA = {"User-Agent": "Mozilla/5.0 (german-shepherd-publisher)"}
+
+
+def ensure_ffmpeg():
+    """GitHub's Ubuntu runners do not include ffmpeg; install it on demand (only when a Reel is rendered)."""
+    if shutil.which("ffmpeg"):
+        return
+    print("Installing ffmpeg...")
+    subprocess.run(["sudo", "apt-get", "update", "-qq"], check=True)
+    subprocess.run(["sudo", "apt-get", "install", "-y", "-qq", "ffmpeg"], check=True)
 
 
 def _get(url, headers=None):
@@ -56,6 +66,7 @@ def pick_music(seed):
 
 
 def render_reel(src_path, kind, hook, payoff, out_path, duration=12, cta=FOLLOW, music=None):
+    ensure_ffmpeg()
     os.makedirs(os.path.join(ROOT, WORK), exist_ok=True)
     hook_f = _textfile("hook.txt", hook, 22)
     pay_f = _textfile("payoff.txt", payoff, 24)

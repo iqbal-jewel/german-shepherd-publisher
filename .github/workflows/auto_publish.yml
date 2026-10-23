@@ -35,9 +35,7 @@ jobs:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           IG_ACCOUNT_ID: ${{ secrets.IG_ACCOUNT_ID }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-        run: |
-          ffmpeg -version | head -1
-          python publish_job.py
+        run: python publish_job.py
 
       # always(): the queue must be saved even when the job above exits with an error,
       # otherwise the next run would not know what was already posted.
