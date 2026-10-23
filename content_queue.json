@@ -105,7 +105,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792765800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Friday Mood: My Shepherd",
@@ -117,7 +117,13 @@
       "photographer": "Imad Clicks"
     },
     "duration": 12,
-    "caption": "Friday means zoomies. 🎉\n\nHow does yours celebrate the weekend?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsd #gsdlife #germanshepherdfunny #gsdhumor"
+    "caption": "Friday means zoomies. 🎉\n\nHow does yours celebrate the weekend?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsd #gsdlife #germanshepherdfunny #gsdhumor",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2168363717389280",
+    "published_at_utc": "2026-10-23T14:32:46.480036+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17959448718014804"
   },
   {
     "day": 2,
