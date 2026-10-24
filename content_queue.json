@@ -310,7 +310,13 @@
     "image_path": "content_assets/day3_head_tilt_meme.jpg",
     "caption": "German Shepherd Head-Tilt Diagnostic Mode: ACTIVE. 🐾\n\nScientists say they do it to triangulate high frequencies. We all know they do it because they know it gets them extra chicken nuggets.\n\nWhat magic word triggers the deepest head-tilt in your house? \"Walk\"? \"Ride\"? \"Cookie\"?\n\n#headtilt #gsdcute #cutedogvideos #germanshepherdworld #shepherdlove",
     "timestamp_unix": 1792863000,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122094766749530446",
+    "published_at_utc": "2026-10-24T17:31:07.275884+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18126028120903026"
   },
   {
     "day": 3,
