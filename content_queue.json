@@ -330,7 +330,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792875600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Playing Dead At Bath Time",
@@ -342,7 +342,13 @@
       "photographer": "Grigoriy Bunkov"
     },
     "duration": 12,
-    "caption": "Bath time drama is real. 🛁\n\nHow does yours protest?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld"
+    "caption": "Bath time drama is real. 🛁\n\nHow does yours protest?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1637572614438321",
+    "published_at_utc": "2026-10-24T21:02:08.088354+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18162791227495500"
   },
   {
     "day": 3,
