@@ -229,7 +229,12 @@
       "photographer": "Inge Van den Heuvel"
     },
     "duration": 12,
-    "caption": "A job a day keeps boredom away. 💼\n\nWhat's your dog's job?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsdguarddog #gsdtraining #schutzhund #k9unit"
+    "caption": "A job a day keeps boredom away. 💼\n\nWhat's your dog's job?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsdguarddog #gsdtraining #schutzhund #k9unit",
+    "attempts": 1,
+    "last_error": "facebook: HTTP 400: {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"A",
+    "instagram_published": true,
+    "ig_live_id": "18145961119582804",
+    "published_at_utc": "2026-10-24T01:31:39.961331+00:00"
   },
   {
     "day": 3,
