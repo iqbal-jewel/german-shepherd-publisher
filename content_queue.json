@@ -217,7 +217,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792805400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Give Your Shepherd A Job Today",
@@ -234,7 +234,9 @@
     "last_error": "facebook: HTTP 400: {\"error\":{\"message\":\"Any of the pages_read_engagement, pages_manage_metadata,\\n        pages_read_user_content, pages_manage_ads, pages_show_list or\\n        pages_messaging permission(s) must be granted before impersonating a\\n        user's page.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"A",
     "instagram_published": true,
     "ig_live_id": "18145961119582804",
-    "published_at_utc": "2026-10-24T01:31:39.961331+00:00"
+    "published_at_utc": "2026-10-24T01:31:39.961331+00:00",
+    "facebook_published": true,
+    "fb_live_id": "2001939510500105"
   },
   {
     "day": 3,
