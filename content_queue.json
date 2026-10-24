@@ -274,7 +274,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792855800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: There Are Different 'Lines'",
@@ -286,7 +286,13 @@
       "photographer": "Pixabay"
     },
     "duration": 12,
-    "caption": "Different lines, same loyal heart. 🛡️\n\nWhich is yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog #gsdcommunity"
+    "caption": "Different lines, same loyal heart. 🛡️\n\nWhich is yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog #gsdcommunity",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1439956684961542",
+    "published_at_utc": "2026-10-24T15:32:47.860304+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17938687224400340"
   },
   {
     "day": 3,
