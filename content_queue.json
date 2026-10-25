@@ -498,7 +498,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792962000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Search-And-Rescue Teams Use Dogs' Noses",
@@ -510,7 +510,13 @@
       "photographer": "Nano Erdozain"
     },
     "duration": 12,
-    "caption": "Noses that save lives. 👃\n\nThank you to all rescue K9s. 🇺🇸\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes"
+    "caption": "Noses that save lives. 👃\n\nThank you to all rescue K9s. 🇺🇸\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2190252748225506",
+    "published_at_utc": "2026-10-25T21:02:07.478145+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18043218794830227"
   },
   {
     "day": 4,
