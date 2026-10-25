@@ -422,7 +422,13 @@
     "image_path": "content_assets/day4_cinematic_quote.jpg",
     "caption": "Once in a lifetime, you get a dog that changes your whole world forever.\n\nThe one who knows when you're hurting before you speak. The one who stands watch when you need peace. The steady heartbeat by your bed.\n\nToday we celebrate our soul dogs by our side, and softly remember the ones running free across the Rainbow Bridge. Drop a ❤️ for your angel.\n\n#souldog #rainbowbridge #germanshepherdforever #unconditionallove #gsdtribute",
     "timestamp_unix": 1792933200,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122095405221530446",
+    "published_at_utc": "2026-10-25T13:00:52.164896+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17966417115207023"
   },
   {
     "day": 4,
