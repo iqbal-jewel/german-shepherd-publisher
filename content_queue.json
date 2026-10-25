@@ -478,7 +478,13 @@
     "image_path": "content_assets/day4_gentle_giant_protector.jpg",
     "caption": "The world sees 85 pounds of muscle and teeth. We see the gentlest nanny, the warmest pillow, and the fierce guardian who would lay down their life for our family.\n\nNothing compares to the loyalty of a shepherd. 🛡️❤️\n\n#gentlegiant #guardiandog #gsdfamily #shepherdlove #shepherdprotection",
     "timestamp_unix": 1792949400,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122095563723530446",
+    "published_at_utc": "2026-10-25T17:31:02.449646+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17899415208398192"
   },
   {
     "day": 4,
