@@ -386,7 +386,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792891800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Practice Recall In A Safe, Enclosed Space",
@@ -398,7 +398,13 @@
       "photographer": "Doğan Alpaslan  Demir"
     },
     "duration": 12,
-    "caption": "Safety first. 🏞️\n\nWhat's your recall reward?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes"
+    "caption": "Safety first. 🏞️\n\nWhat's your recall reward?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2743038222822468",
+    "published_at_utc": "2026-10-25T01:32:06.533064+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18220654549349411"
   },
   {
     "day": 4,
