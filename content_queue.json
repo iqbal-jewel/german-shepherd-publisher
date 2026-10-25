@@ -442,7 +442,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792942200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "The Snack Drawer Choir",
@@ -454,7 +454,13 @@
       "photographer": "Elchino portrait"
     },
     "duration": 12,
-    "caption": "Snack radar never sleeps. 🍪\n\nWhat sound gets yours running?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld"
+    "caption": "Snack radar never sleeps. 🍪\n\nWhat sound gets yours running?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1143706795013290",
+    "published_at_utc": "2026-10-25T15:32:40.544280+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18110266856461131"
   },
   {
     "day": 4,
