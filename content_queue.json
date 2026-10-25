@@ -534,7 +534,13 @@
     "image_path": "content_assets/day4_pack_roll_call.jpg",
     "caption": "Sunday Pack Spotlight! 🐾\n\nSend us a DM with your shepherd's name, age, and favorite quirk to be featured in next week's community carousel!\n\nWishing the whole pack a peaceful Sunday evening. Give your protector an extra belly rub tonight. ❤️\n\n#packspotlight #germanshepherdclub #gsdcommunity #gsdlovers",
     "timestamp_unix": 1792971000,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122095772349530446",
+    "published_at_utc": "2026-10-25T23:30:28.195079+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18021652685936540"
   },
   {
     "day": 4,
