@@ -701,7 +701,13 @@
     "image_path": "content_assets/day5_strong_coffee_shepherd_hair.jpg",
     "caption": "Monday evening debrief: powered by coffee and covered in German Shepherd fur. ☕🐾\n\nBe honest: how many dog hairs have you found in your coffee this week?\n\nDrop a ☕ if your drink has been 'seasoned' by a shepherd.\n\n#germanshepherdfunny #gsdhumor #gsdlife #shepherdlife #germanshepherdmom",
     "timestamp_unix": 1793057400,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122096467563530446",
+    "published_at_utc": "2026-10-26T23:30:55.126922+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17992591497099119"
   },
   {
     "day": 5,
