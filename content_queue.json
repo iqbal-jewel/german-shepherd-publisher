@@ -666,7 +666,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793046600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Check Their Ears Weekly",
@@ -678,7 +678,12 @@
       "photographer": "Igor Ferreira"
     },
     "duration": 12,
-    "caption": "Quick weekly check. 👂\n\nHow often do you look?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday"
+    "caption": "Quick weekly check. 👂\n\nHow often do you look?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday",
+    "facebook_published": true,
+    "fb_live_id": "1608657830747947",
+    "instagram_published": true,
+    "ig_live_id": "18031590776911465",
+    "published_at_utc": "2026-10-26T22:33:34.924906+00:00"
   },
   {
     "day": 5,
