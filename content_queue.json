@@ -646,7 +646,13 @@
     "image_path": "content_assets/day5_chip_bag_frequency.jpg",
     "caption": "I could whisper their name in a quiet room and get zero reaction.\n\nBut the micro-second a bag of potato chips crinkles 45 feet away in the pantry, he teleports to the kitchen counter like a magician. 😂\n\nDrop a 🥔 if your shepherd has snack radar!\n\n#gsdsnacks #funnydog #shepherdhumor #relatabledog #gsdlife",
     "timestamp_unix": 1793034000,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122096256003530446",
+    "published_at_utc": "2026-10-26T17:01:11.884980+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18078238712548511"
   },
   {
     "day": 5,
