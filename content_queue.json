@@ -590,7 +590,13 @@
     "image_path": "content_assets/day5_landshark_evolution.jpg",
     "caption": "Monday mood: Eyes forward, ears up, perimeter secure. ⚡\n\nFounded in 1899 with three simple principles: Intelligence, Fidelity, and Utility. More than a century later, the German Shepherd remains the gold standard of courage on four legs.\n\nLet's conquer this week like a shepherd chasing a ball! 🎾🐾\n\n#workingdog #gsdheritage #canislupus #shepherdpower #gsdmonday",
     "timestamp_unix": 1793014200,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122096072229530446",
+    "published_at_utc": "2026-10-26T11:31:14.920590+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17997189551838054"
   },
   {
     "day": 5,
