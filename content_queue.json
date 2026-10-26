@@ -554,7 +554,7 @@
       "instagram"
     ],
     "timestamp_unix": 1792978200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Introduce New Foods Slowly",
@@ -566,7 +566,13 @@
       "photographer": "Regan Dsouza"
     },
     "duration": 12,
-    "caption": "Slow and steady. 🍽️\n\nAny sensitive stomachs?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday"
+    "caption": "Slow and steady. 🍽️\n\nAny sensitive stomachs?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1039927039136045",
+    "published_at_utc": "2026-10-26T01:32:30.511328+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18137320360644952"
   },
   {
     "day": 5,
