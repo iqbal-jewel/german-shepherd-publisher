@@ -777,7 +777,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793111400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Zoomies At 10 Pm",
@@ -789,7 +789,13 @@
       "photographer": "celal keser"
     },
     "duration": 12,
-    "caption": "Night zoomies are undefeated. 🏃\n\nWhat time does yours go wild?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #germanshepherd"
+    "caption": "Night zoomies are undefeated. 🏃\n\nWhat time does yours go wild?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #germanshepherd",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1908748713593451",
+    "published_at_utc": "2026-10-27T14:32:18.087417+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18122775076732095"
   },
   {
     "day": 6,
