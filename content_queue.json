@@ -833,7 +833,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793133000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Keep Id Tags And Microchip Info Updated",
@@ -845,7 +845,13 @@
       "photographer": "@eleshess"
     },
     "duration": 12,
-    "caption": "Prepared for the unexpected. 🏷️\n\nWhen did you last check?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub"
+    "caption": "Prepared for the unexpected. 🏷️\n\nWhen did you last check?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1114849051152880",
+    "published_at_utc": "2026-10-27T20:31:41.099326+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17966757206984782"
   },
   {
     "day": 6,
