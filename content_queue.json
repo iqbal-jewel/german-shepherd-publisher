@@ -721,7 +721,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793064600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs Detect Smells We Can'T",
@@ -733,7 +733,13 @@
       "photographer": "Alexander Mass"
     },
     "duration": 12,
-    "caption": "A whole world of scent. 🌍\n\nWhat does yours sniff out?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub"
+    "caption": "A whole world of scent. 🌍\n\nWhat does yours sniff out?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1043319572053303",
+    "published_at_utc": "2026-10-27T01:32:49.787670+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18115420001336361"
   },
   {
     "day": 6,
