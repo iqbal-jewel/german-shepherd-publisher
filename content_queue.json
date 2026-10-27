@@ -757,7 +757,13 @@
     "image_path": "content_assets/day6_devotion_quote.jpg",
     "caption": "Shoutout to everyone currently surviving the 8–16 week 'Landshark' puppy phase. 🦈🐾\n\nThose needle-sharp baby teeth chewing on ankles, drywall, sneakers, and doorframes are testing your patience... but promise us you'll hang in there! You are building the greatest friend of your life.\n\nDrop a photo of your puppy during their goofy landshark phase below! 👇\n\n#landsharkpuppy #gsdpuppy #germanshepherdpuppies #puppychewing #gsdlove",
     "timestamp_unix": 1793100600,
-    "status": "ready"
+    "status": "published",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122096823963530446",
+    "published_at_utc": "2026-10-27T11:30:35.352158+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18120238663766421"
   },
   {
     "day": 6,
