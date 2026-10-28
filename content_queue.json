@@ -981,12 +981,18 @@
     "image_path": "content_assets/p001_1028_afternoon.jpg",
     "caption": "German Shepherd Moms are built different. 🐾\n\nThey can handle 85lb leaners, double-coat blowouts, mud-tracked floors, and intense perimeter alerts—all while carrying coffee and looking fabulous.\n\nDrop a 👑 to salute all the amazing GSD Moms in our pack today!\n\n#gsdmom #germanshepherdmom #dogmomlife #shepherdqueen #shepherdpack",
     "timestamp_unix": 1793206800,
-    "status": "ready",
+    "status": "published",
     "pexels": {
       "kind": "photo",
       "id": 5202437,
       "photographer": "Alexas Fotos"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122097909627530446",
+    "published_at_utc": "2026-10-28T17:00:43.015029+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17878093104650925"
   },
   {
     "day": 7,
