@@ -889,7 +889,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793151000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Puppies Are Born With Closed Eyes",
@@ -901,7 +901,13 @@
       "photographer": "Mahmoud Yahyaoui"
     },
     "duration": 12,
-    "caption": "Tiny and perfect. 🐶\n\nShare a newborn photo!\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom"
+    "caption": "Tiny and perfect. 🐶\n\nShare a newborn photo!\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1158700000163317",
+    "published_at_utc": "2026-10-28T01:32:05.939138+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17878149381573979"
   },
   {
     "day": 7,
