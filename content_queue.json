@@ -1042,12 +1042,18 @@
     "image_path": "content_assets/p002_1028_evening.jpg",
     "caption": "Another week with the pack done. 🐾\n\nWhat's the funniest thing your shepherd did this week? Tell us in the comments. We love reading these.\n\n#gsdcommunity #germanshepherdlove #gsdlife #shepherdlife #germanshepherdfamily",
     "timestamp_unix": 1793230200,
-    "status": "ready",
+    "status": "published",
     "pexels": {
       "kind": "photo",
       "id": 16451103,
       "photographer": "Cami Pittman"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122098170861530446",
+    "published_at_utc": "2026-10-28T23:30:45.883907+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18187935616420147"
   },
   {
     "day": 7,
