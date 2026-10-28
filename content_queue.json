@@ -945,7 +945,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793197800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Litters Are Often 6 To 10 Puppies",
@@ -957,7 +957,13 @@
       "photographer": "juliane Monari"
     },
     "duration": 12,
-    "caption": "That's a lot of puppies. 🐾\n\nHow big was yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub"
+    "caption": "That's a lot of puppies. 🐾\n\nHow big was yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1719982299694554",
+    "published_at_utc": "2026-10-28T14:32:21.898446+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18126978241902151"
   },
   {
     "day": 7,
