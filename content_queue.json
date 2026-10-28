@@ -1006,7 +1006,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793219400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Eating At The Table",
@@ -1018,7 +1018,13 @@
       "photographer": "Yuliya Galagan"
     },
     "duration": 12,
-    "caption": "The stare is a skill. 👀\n\nHow long can yours hold it?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #germanshepherd #gsd #gsdlife"
+    "caption": "The stare is a skill. 👀\n\nHow long can yours hold it?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #germanshepherd #gsd #gsdlife",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2265995977614698",
+    "published_at_utc": "2026-10-28T20:33:21.119604+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18156781534568169"
   },
   {
     "day": 7,
