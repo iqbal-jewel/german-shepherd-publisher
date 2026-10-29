@@ -1129,7 +1129,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793284200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs Have A Third Eyelid",
@@ -1141,7 +1141,13 @@
       "photographer": "Kh-ali-l i"
     },
     "duration": 12,
-    "caption": "Built-in eye protection. 👁️\n\nDid you know that?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom"
+    "caption": "Built-in eye protection. 👁️\n\nDid you know that?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2646410319157585",
+    "published_at_utc": "2026-10-29T14:32:16.688291+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17932506294161355"
   },
   {
     "day": 8,
