@@ -1191,7 +1191,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793305800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "When Guests Arrive",
@@ -1203,7 +1203,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Visitors must pass the sniff test. 🚪\n\nHow does yours greet guests?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #germanshepherd #gsd #gsdlife #germanshepherdfunny"
+    "caption": "Visitors must pass the sniff test. 🚪\n\nHow does yours greet guests?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #germanshepherd #gsd #gsdlife #germanshepherdfunny",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1786181672489025",
+    "published_at_utc": "2026-10-29T20:32:19.043279+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17921213367241151"
   },
   {
     "day": 8,
