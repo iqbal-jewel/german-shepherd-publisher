@@ -1099,7 +1099,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793273400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "The Morning Stretch",
@@ -1109,7 +1109,13 @@
       "kind": "photo",
       "id": 12205102,
       "photographer": "Julissa Pires"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122098509171530446",
+    "published_at_utc": "2026-10-29T11:30:32.926390+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18437100613179785"
   },
   {
     "day": 8,
