@@ -1067,7 +1067,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793237400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Slow-Feed Bowls Help Fast Eaters",
@@ -1079,7 +1079,13 @@
       "photographer": "ingrid groeger-stone"
     },
     "duration": 12,
-    "caption": "Dinner takes longer. 🧩\n\nIs yours a speed eater?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld"
+    "caption": "Dinner takes longer. 🧩\n\nIs yours a speed eater?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1090742927109534",
+    "published_at_utc": "2026-10-29T01:32:50.628000+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17917831485507017"
   },
   {
     "day": 8,
