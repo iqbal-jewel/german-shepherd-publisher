@@ -1347,7 +1347,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793379600,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "The Quiet Walk",
@@ -1357,7 +1357,13 @@
       "kind": "photo",
       "id": 28164866,
       "photographer": "Şahin Doğdu"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122099460147530446",
+    "published_at_utc": "2026-10-30T17:00:22.205564+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17912166306308859"
   },
   {
     "day": 9,
