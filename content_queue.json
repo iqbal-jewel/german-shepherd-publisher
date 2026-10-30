@@ -1315,7 +1315,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793370600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Rain? My Favorite",
@@ -1327,7 +1327,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Mud season is here. 🌧️\n\nDoes yours love puddles?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #germanshepherd #gsd #gsdlife #germanshepherdfunny"
+    "caption": "Mud season is here. 🌧️\n\nDoes yours love puddles?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #germanshepherd #gsd #gsdlife #germanshepherdfunny",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1762463048320270",
+    "published_at_utc": "2026-10-30T14:31:46.877401+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18432547144195959"
   },
   {
     "day": 9,
