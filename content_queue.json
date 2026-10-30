@@ -1409,7 +1409,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793403000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "Friday Photo Thread",
@@ -1419,7 +1419,13 @@
       "kind": "photo",
       "id": 7348934,
       "photographer": "RDNE Stock project"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122099702577530446",
+    "published_at_utc": "2026-10-30T23:30:44.655862+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18095029865676467"
   },
   {
     "day": 9,
