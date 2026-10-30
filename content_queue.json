@@ -1253,7 +1253,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793323800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Teach A Hand Target",
@@ -1265,7 +1265,13 @@
       "photographer": "Efrem  Efre"
     },
     "duration": 12,
-    "caption": "A great first trick. 🖐️\n\nWhat trick is next?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos"
+    "caption": "A great first trick. 🖐️\n\nWhat trick is next?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "3030732363959329",
+    "published_at_utc": "2026-10-30T01:32:32.601883+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17884642758527090"
   },
   {
     "day": 9,
