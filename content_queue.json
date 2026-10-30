@@ -1285,7 +1285,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793359800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "When You Sit On The Floor",
@@ -1295,7 +1295,13 @@
       "kind": "photo",
       "id": 16173797,
       "photographer": "Malcoln Oliveira"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122099260221530446",
+    "published_at_utc": "2026-10-30T11:31:11.880695+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18127462333919497"
   },
   {
     "day": 9,
