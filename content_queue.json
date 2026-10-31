@@ -1439,7 +1439,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793410200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs See Well In Dim Light",
@@ -1451,7 +1451,13 @@
       "photographer": "Dmytro Glazunov"
     },
     "duration": 12,
-    "caption": "Night vision, sort of. 🌙\n\nDoes yours play at dusk?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog"
+    "caption": "Night vision, sort of. 🌙\n\nDoes yours play at dusk?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1795727071475388",
+    "published_at_utc": "2026-10-31T01:32:08.316976+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17891795940618572"
   },
   {
     "day": 10,
