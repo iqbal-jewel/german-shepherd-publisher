@@ -1471,7 +1471,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793451600,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Ghost Shepherd",
@@ -1481,7 +1481,13 @@
       "kind": "photo",
       "id": 25839403,
       "photographer": "Manuel"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122100208959530446",
+    "published_at_utc": "2026-10-31T13:01:09.015088+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18644327824031092"
   },
   {
     "day": 10,
