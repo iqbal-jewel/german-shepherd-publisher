@@ -1533,7 +1533,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793467800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Door Duty",
@@ -1543,7 +1543,13 @@
       "kind": "photo",
       "id": 37641686,
       "photographer": "Jordan Coleman"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122100382899530446",
+    "published_at_utc": "2026-10-31T17:30:20.065154+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18650592751007721"
   },
   {
     "day": 10,
