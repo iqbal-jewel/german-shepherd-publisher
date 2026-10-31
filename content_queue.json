@@ -1501,7 +1501,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793460600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs See Fewer Colors Than We Do",
@@ -1513,7 +1513,13 @@
       "photographer": "Thirdman"
     },
     "duration": 12,
-    "caption": "That red ball looks different to them. 🔴\n\nWhat's their favorite toy color?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos"
+    "caption": "That red ball looks different to them. 🔴\n\nWhat's their favorite toy color?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1810316180177715",
+    "published_at_utc": "2026-10-31T15:32:02.323916+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18119593201979410"
   },
   {
     "day": 10,
