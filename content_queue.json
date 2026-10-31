@@ -1595,7 +1595,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793489400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "Halloween Night Safety",
@@ -1605,7 +1605,13 @@
       "kind": "photo",
       "id": 25893630,
       "photographer": "İrem Dur"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122100592305530446",
+    "published_at_utc": "2026-10-31T23:30:38.706202+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18180868576432253"
   },
   {
     "day": 10,
