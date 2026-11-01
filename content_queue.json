@@ -1749,7 +1749,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793570400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Normal Dog Temperature Is 101 To 102.5 F",
@@ -1761,7 +1761,13 @@
       "photographer": "Viktorija Stankevičiūtė"
     },
     "duration": 12,
-    "caption": "Natural heaters. 🌡️\n\nIs yours a bed warmer?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #workingdog #gsdheritage"
+    "caption": "Natural heaters. 🌡️\n\nIs yours a bed warmer?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #workingdog #gsdheritage",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1641203317458090",
+    "published_at_utc": "2026-11-01T22:02:07.411746+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18389942857224249"
   },
   {
     "day": 11,
