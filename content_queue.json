@@ -1625,7 +1625,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793496600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Play Before You Leave",
@@ -1637,7 +1637,13 @@
       "photographer": "Jeremy Li"
     },
     "duration": 12,
-    "caption": "Tired dogs rest better. 😴\n\nWhat's your routine?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #workingdog #gsdheritage"
+    "caption": "Tired dogs rest better. 😴\n\nWhat's your routine?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #workingdog #gsdheritage",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1158677083381066",
+    "published_at_utc": "2026-11-01T01:32:45.929314+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18016951751977402"
   },
   {
     "day": 11,
