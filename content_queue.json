@@ -1657,7 +1657,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793541600,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Sunday Slow Mode",
@@ -1667,7 +1667,13 @@
       "kind": "photo",
       "id": 18869438,
       "photographer": "Rasul Yarichev"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122101103235530446",
+    "published_at_utc": "2026-11-01T14:00:29.336776+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18128101024895640"
   },
   {
     "day": 11,
