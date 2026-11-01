@@ -1687,7 +1687,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793550600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Put Halloween Candy Where Dogs Can'T Reach",
@@ -1699,7 +1699,13 @@
       "photographer": "Julissa Pires"
     },
     "duration": 12,
-    "caption": "Candy safety. 🎃\n\nShare with a dog owner.\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog"
+    "caption": "Candy safety. 🎃\n\nShare with a dog owner.\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1197540382997174",
+    "published_at_utc": "2026-11-01T16:32:34.079781+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18396534781165708"
   },
   {
     "day": 11,
