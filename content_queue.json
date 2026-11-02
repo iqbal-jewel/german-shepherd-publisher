@@ -1905,7 +1905,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793642400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Gentle With Little Ones",
@@ -1915,7 +1915,13 @@
       "kind": "photo",
       "id": 5789120,
       "photographer": "Yan Krukau"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122102278527530446",
+    "published_at_utc": "2026-11-02T18:00:24.102504+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18113656403237474"
   },
   {
     "day": 12,
