@@ -1935,7 +1935,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793655000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: They'Re Medium-Large Dogs",
@@ -1947,7 +1947,13 @@
       "photographer": "Nataliya Vaitkevich"
     },
     "duration": 12,
-    "caption": "Big and athletic. 📏\n\nHow tall is yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #workingdog #gsdheritage #canislupus"
+    "caption": "Big and athletic. 📏\n\nHow tall is yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #workingdog #gsdheritage #canislupus",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1506584328072019",
+    "published_at_utc": "2026-11-02T21:32:31.608530+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18156953272525713"
   },
   {
     "day": 12,
