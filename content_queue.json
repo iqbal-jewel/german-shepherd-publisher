@@ -1843,7 +1843,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793622600,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Monday Mood",
@@ -1853,7 +1853,13 @@
       "kind": "photo",
       "id": 16337792,
       "photographer": "Irina Solianyk"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122101999815530446",
+    "published_at_utc": "2026-11-02T12:30:47.423895+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18145084438720270"
   },
   {
     "day": 12,
