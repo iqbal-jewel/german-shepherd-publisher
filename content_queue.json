@@ -1873,7 +1873,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793633400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "The Dramatic Yawn",
@@ -1885,7 +1885,13 @@
       "photographer": "Yan Krukau"
     },
     "duration": 12,
-    "caption": "A yawn with a soundtrack. 😮\n\nDoes yours squeak?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog"
+    "caption": "A yawn with a soundtrack. 😮\n\nDoes yours squeak?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1120945110311073",
+    "published_at_utc": "2026-11-02T15:32:02.716721+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18145427413599871"
   },
   {
     "day": 12,
