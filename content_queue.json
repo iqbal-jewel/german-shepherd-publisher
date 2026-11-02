@@ -1811,7 +1811,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793586600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "The Great Blanket Heist",
@@ -1823,7 +1823,13 @@
       "photographer": "Alex Kad"
     },
     "duration": 12,
-    "caption": "Warm spot stolen. 🛋️\n\nWho owns the couch at your house?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog #gsdcommunity"
+    "caption": "Warm spot stolen. 🛋️\n\nWho owns the couch at your house?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog #gsdcommunity",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2158601458078476",
+    "published_at_utc": "2026-11-02T02:31:58.582769+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18075081359770992"
   },
   {
     "day": 12,
