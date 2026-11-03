@@ -2121,7 +2121,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793741400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Celebrate Small Wins",
@@ -2133,7 +2133,13 @@
       "photographer": "Yan Krukau"
     },
     "duration": 12,
-    "caption": "Progress, not perfection. 🏅\n\nWhat was your win today?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #workingdog #gsdheritage #canislupus #shepherdpower"
+    "caption": "Progress, not perfection. 🏅\n\nWhat was your win today?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #workingdog #gsdheritage #canislupus #shepherdpower",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1190111260480096",
+    "published_at_utc": "2026-11-03T21:32:45.165900+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18113204393614703"
   },
   {
     "day": 13,
