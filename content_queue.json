@@ -2059,7 +2059,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793719800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs Sweat A Little Through Their Paws",
@@ -2071,7 +2071,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Paws do a bit more than walk. 🐾\n\nDid you know?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #workingdog #gsdheritage #canislupus"
+    "caption": "Paws do a bit more than walk. 🐾\n\nDid you know?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #workingdog #gsdheritage #canislupus",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1597950328304460",
+    "published_at_utc": "2026-11-03T15:32:38.355573+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18162703600499402"
   },
   {
     "day": 13,
