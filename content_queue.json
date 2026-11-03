@@ -1997,7 +1997,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793673000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Shift Meal Times Gradually After The Clocks Change",
@@ -2009,7 +2009,13 @@
       "photographer": "Nikki L'Italien"
     },
     "duration": 12,
-    "caption": "Time-change help. 🕔\n\nHow's your dog adjusting?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #workingdog #gsdheritage #canislupus #shepherdpower"
+    "caption": "Time-change help. 🕔\n\nHow's your dog adjusting?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #workingdog #gsdheritage #canislupus #shepherdpower",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1121031537511587",
+    "published_at_utc": "2026-11-03T02:32:03.458449+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18053362868603876"
   },
   {
     "day": 13,
