@@ -1967,7 +1967,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793665800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "No-Pull Walks In 3 Steps",
@@ -1977,7 +1977,13 @@
       "kind": "photo",
       "id": 20254360,
       "photographer": "David Kanigan"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122102542815530446",
+    "published_at_utc": "2026-11-03T00:30:51.535413+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18121592296978381"
   },
   {
     "day": 12,
