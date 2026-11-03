@@ -2029,7 +2029,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793709000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Ear Check",
@@ -2039,7 +2039,13 @@
       "kind": "photo",
       "id": 38624618,
       "photographer": "Cara Denison"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122103071187530446",
+    "published_at_utc": "2026-11-03T12:30:46.906842+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17912627049484735"
   },
   {
     "day": 13,
