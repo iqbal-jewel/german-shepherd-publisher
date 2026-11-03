@@ -2091,7 +2091,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793728800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Senior Shepherd Love",
@@ -2101,7 +2101,13 @@
       "kind": "photo",
       "id": 11570516,
       "photographer": "Inge Van den Heuvel"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122103325683530446",
+    "published_at_utc": "2026-11-03T18:00:25.254958+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17934045924420250"
   },
   {
     "day": 13,
