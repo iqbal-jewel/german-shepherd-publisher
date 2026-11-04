@@ -2183,7 +2183,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793759400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Halloween Costume: Serious Face",
@@ -2195,7 +2195,13 @@
       "photographer": "Yan Krukau"
     },
     "duration": 12,
-    "caption": "Not amused. 🎃\n\nDoes yours wear costumes?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes"
+    "caption": "Not amused. 🎃\n\nDoes yours wear costumes?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1778365186564791",
+    "published_at_utc": "2026-11-04T02:32:10.564729+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17920248057465490"
   },
   {
     "day": 14,
