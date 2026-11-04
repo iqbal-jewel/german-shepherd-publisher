@@ -2153,7 +2153,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793752200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "Shed Season Reality",
@@ -2163,7 +2163,13 @@
       "kind": "photo",
       "id": 6235022,
       "photographer": "Tima Miroshnichenko"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122103507513530446",
+    "published_at_utc": "2026-11-04T00:30:30.566056+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18119345779789942"
   },
   {
     "day": 13,
