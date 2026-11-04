@@ -2215,7 +2215,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793795400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "The Snack Audit",
@@ -2225,7 +2225,13 @@
       "kind": "photo",
       "id": 30480074,
       "photographer": "Regan Dsouza"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122103947949530446",
+    "published_at_utc": "2026-11-04T12:30:58.945628+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18114048641134380"
   },
   {
     "day": 14,
