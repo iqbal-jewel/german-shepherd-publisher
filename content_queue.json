@@ -2245,7 +2245,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793806200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs Drink By Curling Their Tongues Back",
@@ -2257,7 +2257,13 @@
       "photographer": "Karla Cruz"
     },
     "duration": 12,
-    "caption": "Water-bowl science. 💦\n\nHow messy is yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #workingdog #gsdheritage #canislupus #shepherdpower"
+    "caption": "Water-bowl science. 💦\n\nHow messy is yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #workingdog #gsdheritage #canislupus #shepherdpower",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1112534791751900",
+    "published_at_utc": "2026-11-04T15:31:39.559852+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18131999282488740"
   },
   {
     "day": 14,
