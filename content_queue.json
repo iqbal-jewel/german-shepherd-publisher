@@ -2463,7 +2463,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793901600,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "First Night vs Today",
@@ -2473,7 +2473,13 @@
       "kind": "photo",
       "id": 9983475,
       "photographer": "Дмитрий Пропадалин"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122105153529530446",
+    "published_at_utc": "2026-11-05T18:00:56.788355+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18114039248156486"
   },
   {
     "day": 15,
