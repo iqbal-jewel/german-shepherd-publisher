@@ -2431,7 +2431,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793892600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Brush With The Coat",
@@ -2443,7 +2443,13 @@
       "photographer": "Thirdman"
     },
     "duration": 12,
-    "caption": "Brushing basics. 🪮\n\nHow often do you brush?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#workingdog #gsdheritage #canislupus #shepherdpower #germanshepherd"
+    "caption": "Brushing basics. 🪮\n\nHow often do you brush?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#workingdog #gsdheritage #canislupus #shepherdpower #germanshepherd",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2332173534296474",
+    "published_at_utc": "2026-11-05T15:32:38.280386+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18137792380734757"
   },
   {
     "day": 15,
