@@ -2493,7 +2493,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793914200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Pov: You Try To Go To The Bathroom Alone",
@@ -2505,7 +2505,13 @@
       "photographer": "Vincuk Konan"
     },
     "duration": 12,
-    "caption": "Bathroom privacy? Never heard of her. 🚪🐾\n\nWho else has a bathroom bodyguard?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday"
+    "caption": "Bathroom privacy? Never heard of her. 🚪🐾\n\nWho else has a bathroom bodyguard?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1597255731678237",
+    "published_at_utc": "2026-11-05T21:31:54.265321+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18052766006812899"
   },
   {
     "day": 15,
