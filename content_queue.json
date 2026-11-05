@@ -2369,7 +2369,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793845800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Crate Or Bed Can Be A Safe Space",
@@ -2381,7 +2381,13 @@
       "photographer": "Irina Solianyk"
     },
     "duration": 12,
-    "caption": "A calm place to rest. 🛏️\n\nWhere does yours retreat?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdheritage #canislupus #shepherdpower #germanshepherd #gsdguarddog"
+    "caption": "A calm place to rest. 🛏️\n\nWhere does yours retreat?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdheritage #canislupus #shepherdpower #germanshepherd #gsdguarddog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1515391847172852",
+    "published_at_utc": "2026-11-05T02:31:48.069926+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17944709730373101"
   },
   {
     "day": 15,
