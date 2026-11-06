@@ -2587,7 +2587,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793968200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Zero Personal Space",
@@ -2597,7 +2597,13 @@
       "kind": "photo",
       "id": 32860428,
       "photographer": "Сергей ЮССтудия"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122105810151530446",
+    "published_at_utc": "2026-11-06T12:31:00.350550+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18093464750212180"
   },
   {
     "day": 16,
