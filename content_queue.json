@@ -2649,7 +2649,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793988000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "He Knew Before I Said Anything",
@@ -2659,7 +2659,13 @@
       "kind": "photo",
       "id": 6734022,
       "photographer": "Igor Ferreira"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122106070899530446",
+    "published_at_utc": "2026-11-06T18:00:21.599127+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17982348078075168"
   },
   {
     "day": 16,
