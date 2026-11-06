@@ -2555,7 +2555,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793932200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: The Breed Started In 1899",
@@ -2567,7 +2567,13 @@
       "photographer": "Vladimir Srajber"
     },
     "duration": 12,
-    "caption": "German Shepherd history lesson. 🇩🇪\n\nDid you know this?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#canislupus #shepherdpower #germanshepherd #gsdguarddog #gsdtraining"
+    "caption": "German Shepherd history lesson. 🇩🇪\n\nDid you know this?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#canislupus #shepherdpower #germanshepherd #gsdguarddog #gsdtraining",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1124802400539502",
+    "published_at_utc": "2026-11-06T02:32:13.192152+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17959058217266576"
   },
   {
     "day": 16,
