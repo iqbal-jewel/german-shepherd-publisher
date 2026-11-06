@@ -2617,7 +2617,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793979000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "My Shepherd When I Say 'Walk'",
@@ -2629,7 +2629,13 @@
       "photographer": "Yan Krukau"
     },
     "duration": 12,
-    "caption": "One word. Full chaos. 😂\n\nWhat word makes yours go wild?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday"
+    "caption": "One word. Full chaos. 😂\n\nWhat word makes yours go wild?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "3456950671153656",
+    "published_at_utc": "2026-11-06T15:31:48.979248+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17890563501476587"
   },
   {
     "day": 16,
