@@ -2525,7 +2525,7 @@
       "instagram"
     ],
     "timestamp_unix": 1793925000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "Official Name vs Ridiculous Nicknames",
@@ -2535,7 +2535,13 @@
       "kind": "photo",
       "id": 7348500,
       "photographer": "RDNE Stock project"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122105422227530446",
+    "published_at_utc": "2026-11-06T00:31:14.280727+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18111151619155320"
   },
   {
     "day": 15,
