@@ -2679,7 +2679,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794000600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: They Have A Double Coat",
@@ -2691,7 +2691,13 @@
       "photographer": "Filip Rankovic Grobgaard"
     },
     "duration": 12,
-    "caption": "Now you know where all the fur comes from. 🌪️\n\nHow much does yours shed?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#canislupus #shepherdpower #germanshepherd #gsdguarddog #gsdtraining"
+    "caption": "Now you know where all the fur comes from. 🌪️\n\nHow much does yours shed?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#canislupus #shepherdpower #germanshepherd #gsdguarddog #gsdtraining",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2393900514712207",
+    "published_at_utc": "2026-11-06T21:32:01.186902+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18094286273488463"
   },
   {
     "day": 16,
