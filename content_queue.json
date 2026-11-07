@@ -2865,7 +2865,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794088800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Reward The Moment",
@@ -2877,7 +2877,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Timing matters. 🎯\n\nWhat's your dog's favorite reward?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdpower #germanshepherd #gsdguarddog #gsdtraining #schutzhund"
+    "caption": "Timing matters. 🎯\n\nWhat's your dog's favorite reward?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdpower #germanshepherd #gsdguarddog #gsdtraining #schutzhund",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "29436088289362302",
+    "published_at_utc": "2026-11-07T22:02:00.925664+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18101514272365216"
   },
   {
     "day": 17,
