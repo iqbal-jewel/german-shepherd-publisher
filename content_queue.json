@@ -2741,7 +2741,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794018600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Keep Training Sessions Short",
@@ -2753,7 +2753,13 @@
       "photographer": "Jonathan Cooper"
     },
     "duration": 12,
-    "caption": "Short and sweet. ⏱️\n\nWhat are you teaching right now?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdpower #germanshepherd #gsdguarddog #gsdtraining #schutzhund"
+    "caption": "Short and sweet. ⏱️\n\nWhat are you teaching right now?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdpower #germanshepherd #gsdguarddog #gsdtraining #schutzhund",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2001207857227468",
+    "published_at_utc": "2026-11-07T02:32:13.175544+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17987773224065905"
   },
   {
     "day": 17,
