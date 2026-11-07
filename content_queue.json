@@ -2803,7 +2803,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794069000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Me: I'Ll Just Sit For Five Minutes",
@@ -2815,7 +2815,13 @@
       "photographer": "Martina Tomšič"
     },
     "duration": 12,
-    "caption": "Foot warmer, security guard, personal shadow. 🦶\n\nWhere does yours sit?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub"
+    "caption": "Foot warmer, security guard, personal shadow. 🦶\n\nWhere does yours sit?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1125536347035462",
+    "published_at_utc": "2026-11-07T16:31:47.439937+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18121309700078859"
   },
   {
     "day": 17,
