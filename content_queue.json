@@ -2835,7 +2835,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794076200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Never Walking Alone At Night",
@@ -2845,7 +2845,13 @@
       "kind": "photo",
       "id": 28176027,
       "photographer": "david hou"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122106681579530446",
+    "published_at_utc": "2026-11-07T18:31:05.939325+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18094680470690388"
   },
   {
     "day": 17,
