@@ -3051,7 +3051,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794175200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "The Vacuum Is Out",
@@ -3063,7 +3063,13 @@
       "photographer": "Ron Lach"
     },
     "duration": 12,
-    "caption": "Fearless? Unless it's the vacuum. 🧹😂\n\nWhat spooks your shepherd?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld"
+    "caption": "Fearless? Unless it's the vacuum. 🧹😂\n\nWhat spooks your shepherd?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1127991059606370",
+    "published_at_utc": "2026-11-08T22:02:10.258142+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18650680498025409"
   },
   {
     "day": 18,
