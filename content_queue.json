@@ -2959,7 +2959,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794146400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "The Dramatic Sigh",
@@ -2969,7 +2969,13 @@
       "kind": "photo",
       "id": 25384540,
       "photographer": "sweta pilla"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122107040637530446",
+    "published_at_utc": "2026-11-08T14:00:26.301987+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17917304292493720"
   },
   {
     "day": 18,
