@@ -2989,7 +2989,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794155400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Give Teething Puppies Chew Toys",
@@ -3001,7 +3001,13 @@
       "photographer": "Mahmoud Yahyaoui"
     },
     "duration": 12,
-    "caption": "Land shark survival. 🦈\n\nWhat toy saved your house?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdpower #germanshepherd #gsdguarddog #gsdtraining #schutzhund"
+    "caption": "Land shark survival. 🦈\n\nWhat toy saved your house?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdpower #germanshepherd #gsdguarddog #gsdtraining #schutzhund",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "28782060111464556",
+    "published_at_utc": "2026-11-08T16:32:01.566711+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18127347049909781"
   },
   {
     "day": 18,
