@@ -2897,7 +2897,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794097800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "safety",
     "title": "Reflective Gear For Dark Walks",
@@ -2907,7 +2907,13 @@
       "kind": "photo",
       "id": 6209942,
       "photographer": "Yan Krukau"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122106788331530446",
+    "published_at_utc": "2026-11-08T00:30:24.794875+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18443889193176921"
   },
   {
     "day": 17,
