@@ -2927,7 +2927,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794105000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: They Shed All Year",
@@ -2939,7 +2939,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Prepare the vacuum. 🧹\n\nWhen is your dog's coat blow?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsdguarddog #gsdtraining #schutzhund #k9unit"
+    "caption": "Prepare the vacuum. 🧹\n\nWhen is your dog's coat blow?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsdguarddog #gsdtraining #schutzhund #k9unit",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2253869521837233",
+    "published_at_utc": "2026-11-08T02:32:40.952112+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18065940674524715"
   },
   {
     "day": 18,
