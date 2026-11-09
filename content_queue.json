@@ -3113,7 +3113,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794191400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: They'Re Among America'S Most Popular Breeds",
@@ -3125,7 +3125,13 @@
       "photographer": "Fabricio Miranda"
     },
     "duration": 12,
-    "caption": "Loyal and loved. 🇺🇸\n\nHow long have you had yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdguarddog #gsdtraining #schutzhund #k9unit #germanshepherdclub"
+    "caption": "Loyal and loved. 🇺🇸\n\nHow long have you had yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdguarddog #gsdtraining #schutzhund #k9unit #germanshepherdclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "4570454619935937",
+    "published_at_utc": "2026-11-09T02:32:41.890337+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17977414773171907"
   },
   {
     "day": 19,
