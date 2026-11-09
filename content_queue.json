@@ -3083,7 +3083,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794184200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "Sunday Pack Roll Call",
@@ -3093,7 +3093,13 @@
       "kind": "photo",
       "id": 34618465,
       "photographer": "Thái Trường Giang"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122107229439530446",
+    "published_at_utc": "2026-11-09T00:30:29.535118+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17956479048294242"
   },
   {
     "day": 18,
