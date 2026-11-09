@@ -3175,7 +3175,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794238200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: They Work With Humans",
@@ -3187,7 +3187,13 @@
       "photographer": "Eloy Adrian"
     },
     "duration": 12,
-    "caption": "Multi-talented heroes. 🛡️\n\nHave you met a working shepherd?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsdguarddog #gsdtraining #schutzhund #k9unit"
+    "caption": "Multi-talented heroes. 🛡️\n\nHave you met a working shepherd?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsdguarddog #gsdtraining #schutzhund #k9unit",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1672149394696143",
+    "published_at_utc": "2026-11-09T15:34:38.332814+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18000179633994092"
   },
   {
     "day": 19,
