@@ -3145,7 +3145,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794227400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Kitchen Supervisor",
@@ -3155,7 +3155,13 @@
       "kind": "photo",
       "id": 4331522,
       "photographer": "Borta"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122107401705530446",
+    "published_at_utc": "2026-11-09T12:30:24.993316+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18501221359102841"
   },
   {
     "day": 19,
