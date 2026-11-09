@@ -3237,7 +3237,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794259800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Wipe Paws After Winter Walks",
@@ -3249,7 +3249,13 @@
       "photographer": "marco allasio"
     },
     "duration": 12,
-    "caption": "Simple winter care. ❄️\n\nDo you wipe paws?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdguarddog #gsdtraining #schutzhund #k9unit #germanshepherdclub"
+    "caption": "Simple winter care. ❄️\n\nDo you wipe paws?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdguarddog #gsdtraining #schutzhund #k9unit #germanshepherdclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "992832427221748",
+    "published_at_utc": "2026-11-09T21:32:00.473693+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17954504685297547"
   },
   {
     "day": 19,
