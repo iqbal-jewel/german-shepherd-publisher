@@ -3361,7 +3361,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794324600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Puppy Ears Take Time",
@@ -3373,7 +3373,13 @@
       "photographer": "JacLou DL"
     },
     "duration": 12,
-    "caption": "Floppy ears are part of puppy charm. 👂\n\nWhen did your dog's ears stand?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdguarddog #gsdtraining #schutzhund #k9unit #germanshepherdclub"
+    "caption": "Floppy ears are part of puppy charm. 👂\n\nWhen did your dog's ears stand?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdguarddog #gsdtraining #schutzhund #k9unit #germanshepherdclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2439511923247414",
+    "published_at_utc": "2026-11-10T15:32:02.391382+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18351447949248819"
   },
   {
     "day": 20,
