@@ -3423,7 +3423,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794346200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Use A Food Puzzle",
@@ -3435,7 +3435,13 @@
       "photographer": "Marian Havenga"
     },
     "duration": 12,
-    "caption": "Dinner with a job. 🧩\n\nHave you tried one?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdtraining #schutzhund #k9unit #germanshepherdclub #gsdnation"
+    "caption": "Dinner with a job. 🧩\n\nHave you tried one?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdtraining #schutzhund #k9unit #germanshepherdclub #gsdnation",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1406026422596402",
+    "published_at_utc": "2026-11-10T21:32:09.482766+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18016856381995805"
   },
   {
     "day": 20,
