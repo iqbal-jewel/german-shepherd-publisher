@@ -3299,7 +3299,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794277800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "When You Open Cheese Quietly",
@@ -3311,7 +3311,13 @@
       "photographer": "Martina Tomšič"
     },
     "duration": 12,
-    "caption": "Doesn't hear their name. Hears cheese. 🧀\n\nRate your dog's snack radar 1 to 10.\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #germanshepherd"
+    "caption": "Doesn't hear their name. Hears cheese. 🧀\n\nRate your dog's snack radar 1 to 10.\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #germanshepherd",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2431235564347324",
+    "published_at_utc": "2026-11-10T02:32:31.993268+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18102229133545855"
   },
   {
     "day": 20,
