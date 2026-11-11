@@ -3547,7 +3547,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794411000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Keep A Routine",
@@ -3559,7 +3559,12 @@
       "photographer": "Павел  Хлыстунов"
     },
     "duration": 12,
-    "caption": "Dogs love predictability. 📅\n\nWhat's your daily routine?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdtraining #schutzhund #k9unit #germanshepherdclub #gsdnation"
+    "caption": "Dogs love predictability. 📅\n\nWhat's your daily routine?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdtraining #schutzhund #k9unit #germanshepherdclub #gsdnation",
+    "facebook_published": true,
+    "fb_live_id": "1130045233332333",
+    "instagram_published": true,
+    "ig_live_id": "18122428594941760",
+    "published_at_utc": "2026-11-11T18:37:54.460716+00:00"
   },
   {
     "day": 21,
@@ -3573,7 +3578,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794420000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Veterans Day: Salute To Military And Police K9s",
@@ -3583,7 +3588,12 @@
       "kind": "photo",
       "id": 13042718,
       "photographer": "Aliaksei Semirski"
-    }
+    },
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122108426367530446",
+    "instagram_published": true,
+    "ig_live_id": "18097089038163913",
+    "published_at_utc": "2026-11-11T18:37:54.478324+00:00"
   },
   {
     "day": 21,
