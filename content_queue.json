@@ -3485,7 +3485,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794364200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Dinner Is At 5:00. It'S 4:59.",
@@ -3497,7 +3497,13 @@
       "photographer": "Evgenij Mikhailov"
     },
     "duration": 12,
-    "caption": "Can your shepherd tell time? 🔔\n\nWhat time does yours demand dinner?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #germanshepherd #gsd"
+    "caption": "Can your shepherd tell time? 🔔\n\nWhat time does yours demand dinner?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #germanshepherd #gsd",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "4718168138502876",
+    "published_at_utc": "2026-11-11T02:32:27.187133+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18400396537200737"
   },
   {
     "day": 21,
