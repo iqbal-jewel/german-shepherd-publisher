@@ -3517,7 +3517,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794400200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "The 4:59 Dinner Whine",
@@ -3527,7 +3527,13 @@
       "kind": "photo",
       "id": 11566889,
       "photographer": "jose manuel gimeno"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122108300493530446",
+    "published_at_utc": "2026-11-11T12:31:01.646281+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18156038350478118"
   },
   {
     "day": 21,
