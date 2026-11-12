@@ -3731,7 +3731,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794497400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Teach 'Leave It'",
@@ -3743,7 +3743,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "A lifesaver cue. 🚫\n\nDoes yours know it?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#schutzhund #k9unit #germanshepherdclub #gsdnation #gsd"
+    "caption": "A lifesaver cue. 🚫\n\nDoes yours know it?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#schutzhund #k9unit #germanshepherdclub #gsdnation #gsd",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1016577014827964",
+    "published_at_utc": "2026-11-12T15:33:11.789350+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18237480697325985"
   },
   {
     "day": 22,
