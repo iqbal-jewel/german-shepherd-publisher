@@ -3669,7 +3669,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794450600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs Smell Amazingly Well",
@@ -3681,7 +3681,13 @@
       "photographer": "Dharmesh Kurre"
     },
     "duration": 12,
-    "caption": "Sniffing = reading the news. 👃\n\nWhat does your dog sniff most?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#k9unit #germanshepherdclub #gsdnation #gsd #gsdlife"
+    "caption": "Sniffing = reading the news. 👃\n\nWhat does your dog sniff most?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#k9unit #germanshepherdclub #gsdnation #gsd #gsdlife",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1117013701224459",
+    "published_at_utc": "2026-11-12T02:31:50.925882+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18098124506144899"
   },
   {
     "day": 22,
