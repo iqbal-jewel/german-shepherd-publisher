@@ -3793,7 +3793,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794519000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Trying To Take A Photo Of My Shepherd",
@@ -3805,7 +3805,13 @@
       "photographer": "Martina Tomšič"
     },
     "duration": 12,
-    "caption": "Camera shy? Or just dramatic? 📸\n\nHow does yours act on camera?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #germanshepherd #gsd #gsdlife"
+    "caption": "Camera shy? Or just dramatic? 📸\n\nHow does yours act on camera?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #germanshepherd #gsd #gsdlife",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1657282729367580",
+    "published_at_utc": "2026-11-12T21:32:24.895696+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18103423055066068"
   },
   {
     "day": 22,
