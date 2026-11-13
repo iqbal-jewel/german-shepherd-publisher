@@ -3887,7 +3887,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794573000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "The Stick Enthusiast",
@@ -3897,7 +3897,13 @@
       "kind": "photo",
       "id": 18058229,
       "photographer": "Nano Erdozain"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122109146199530446",
+    "published_at_utc": "2026-11-13T12:31:16.107009+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18652383496025125"
   },
   {
     "day": 23,
