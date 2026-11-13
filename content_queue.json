@@ -3917,7 +3917,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794583800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Stop When They Pull",
@@ -3929,7 +3929,13 @@
       "photographer": "Marian Florinel Condruz"
     },
     "duration": 12,
-    "caption": "Loose-leash basics. 🦮\n\nDoes yours pull?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#k9unit #germanshepherdclub #gsdnation #gsd #gsdlife"
+    "caption": "Loose-leash basics. 🦮\n\nDoes yours pull?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#k9unit #germanshepherdclub #gsdnation #gsd #gsdlife",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2196876377589829",
+    "published_at_utc": "2026-11-13T15:32:16.817411+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18125012426284471"
   },
   {
     "day": 23,
