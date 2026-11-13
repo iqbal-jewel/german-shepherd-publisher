@@ -3979,7 +3979,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794605400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: The Name Means Shepherd Dog",
@@ -3991,7 +3991,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Born to herd. 🐑\n\nDoes yours try to herd you?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdclub #gsdnation #gsd #gsdlife #germanshepherdfunny"
+    "caption": "Born to herd. 🐑\n\nDoes yours try to herd you?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdclub #gsdnation #gsd #gsdlife #germanshepherdfunny",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2387672478715124",
+    "published_at_utc": "2026-11-13T21:32:48.762842+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17880476343567097"
   },
   {
     "day": 23,
