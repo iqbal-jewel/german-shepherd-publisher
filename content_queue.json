@@ -3949,7 +3949,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794592800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Quiet Hero: The K9 Tribute",
@@ -3959,7 +3959,13 @@
       "kind": "photo",
       "id": 26545355,
       "photographer": "christopher nettuno"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122109232539530446",
+    "published_at_utc": "2026-11-13T18:00:38.515303+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18182118082427284"
   },
   {
     "day": 23,
