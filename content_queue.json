@@ -3855,7 +3855,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794537000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Rin Tin Tin Was A German Shepherd",
@@ -3867,7 +3867,13 @@
       "photographer": "Camilo Ospina"
     },
     "duration": 12,
-    "caption": "Hollywood shepherd. 🎬\n\nDid you know that?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdclub #gsdnation #gsd #gsdlife #germanshepherdfunny"
+    "caption": "Hollywood shepherd. 🎬\n\nDid you know that?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdclub #gsdnation #gsd #gsdlife #germanshepherdfunny",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1011218114638461",
+    "published_at_utc": "2026-11-13T02:32:33.491836+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18030200678700372"
   },
   {
     "day": 23,
