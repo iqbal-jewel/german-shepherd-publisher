@@ -4165,7 +4165,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794693600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Make Walks Sniff Walks",
@@ -4177,7 +4177,13 @@
       "photographer": "Yan Krukau"
     },
     "duration": 12,
-    "caption": "Sniffing = mental exercise. 👃\n\nWhere does yours love to sniff?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdnation #gsd #gsdlife #germanshepherdfunny #gsdhumor"
+    "caption": "Sniffing = mental exercise. 👃\n\nWhere does yours love to sniff?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdnation #gsd #gsdlife #germanshepherdfunny #gsdhumor",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1419374900277285",
+    "published_at_utc": "2026-11-14T22:02:13.299809+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18123156674515883"
   },
   {
     "day": 24,
