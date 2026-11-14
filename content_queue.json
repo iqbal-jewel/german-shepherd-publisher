@@ -4041,7 +4041,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794623400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Shepherd Sleeping Positions",
@@ -4053,7 +4053,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Bones are optional. 😴\n\nShow us your dog's weirdest pose!\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsd #gsdlife #germanshepherdfunny #gsdhumor"
+    "caption": "Bones are optional. 😴\n\nShow us your dog's weirdest pose!\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherd #gsd #gsdlife #germanshepherdfunny #gsdhumor",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1858064418867076",
+    "published_at_utc": "2026-11-14T02:31:53.379454+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18074916638784341"
   },
   {
     "day": 24,
