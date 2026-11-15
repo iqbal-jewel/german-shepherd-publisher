@@ -4289,7 +4289,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794760200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Typical Lifespan",
@@ -4301,7 +4301,13 @@
       "photographer": "Utopix Pictures Pictures"
     },
     "duration": 12,
-    "caption": "Every year counts. 🤍\n\nHow old is yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdnation #gsd #gsdlife #germanshepherdfunny #gsdhumor"
+    "caption": "Every year counts. 🤍\n\nHow old is yours?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdnation #gsd #gsdlife #germanshepherdfunny #gsdhumor",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2332917257505055",
+    "published_at_utc": "2026-11-15T16:32:23.727860+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17974560327175194"
   },
   {
     "day": 25,
