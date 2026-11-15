@@ -4351,7 +4351,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794780000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Socialize Early And Gently",
@@ -4363,7 +4363,13 @@
       "photographer": "B4byBif3"
     },
     "duration": 12,
-    "caption": "Confident dogs start young. 🐶\n\nWhat's a new place you visited?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsd #gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove"
+    "caption": "Confident dogs start young. 🐶\n\nWhat's a new place you visited?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsd #gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1149232087465575",
+    "published_at_utc": "2026-11-15T22:02:33.156547+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18133455752494563"
   },
   {
     "day": 25,
