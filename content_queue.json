@@ -4259,7 +4259,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794751200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Doorway Patrol Napper",
@@ -4269,7 +4269,13 @@
       "kind": "photo",
       "id": 10055136,
       "photographer": "Stefano Parisi"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122109845397530446",
+    "published_at_utc": "2026-11-15T14:01:08.816535+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17919864387263176"
   },
   {
     "day": 25,
