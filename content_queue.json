@@ -4321,7 +4321,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794767400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Protective Instinct Never Sleeps",
@@ -4331,7 +4331,13 @@
       "kind": "photo",
       "id": 14304250,
       "photographer": "Tuba Karabulut"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122109918039530446",
+    "published_at_utc": "2026-11-15T18:30:44.366149+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17998059077841301"
   },
   {
     "day": 25,
