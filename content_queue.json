@@ -4413,7 +4413,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794796200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "I Said 'Drop It'",
@@ -4425,7 +4425,13 @@
       "photographer": "Aliaksei Semirski"
     },
     "duration": 12,
-    "caption": "Selective hearing is real. 🎾\n\nWhat does yours refuse to drop?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog"
+    "caption": "Selective hearing is real. 🎾\n\nWhat does yours refuse to drop?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1122490024031157",
+    "published_at_utc": "2026-11-16T02:32:23.178481+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18008184774007069"
   },
   {
     "day": 26,
