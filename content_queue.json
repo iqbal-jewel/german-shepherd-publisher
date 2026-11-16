@@ -4507,7 +4507,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794852000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Coming Home Joy",
@@ -4517,7 +4517,13 @@
       "kind": "photo",
       "id": 14874691,
       "photographer": "Wallace Silva"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122110229697530446",
+    "published_at_utc": "2026-11-16T18:00:49.144256+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18116815990852728"
   },
   {
     "day": 26,
