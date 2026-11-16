@@ -4537,7 +4537,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794864600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Typical Size",
@@ -4549,7 +4549,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Big dogs, big hearts. 🐕\n\nHow much does yours weigh?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog"
+    "caption": "Big dogs, big hearts. 🐕\n\nHow much does yours weigh?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1753324329845729",
+    "published_at_utc": "2026-11-16T21:31:34.397395+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17912144178574861"
   },
   {
     "day": 26,
