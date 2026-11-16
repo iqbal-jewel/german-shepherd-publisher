@@ -4445,7 +4445,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794832200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "The Pizza Stare",
@@ -4455,7 +4455,13 @@
       "kind": "photo",
       "id": 39526132,
       "photographer": "Alexas Fotos"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122110164843530446",
+    "published_at_utc": "2026-11-16T12:31:15.548450+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17912343444657813"
   },
   {
     "day": 26,
