@@ -4475,7 +4475,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794843000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Hide Treats Around The House",
@@ -4487,7 +4487,13 @@
       "photographer": "Rajesh  Balouria"
     },
     "duration": 12,
-    "caption": "Indoor treasure hunt. 🔍\n\nHow fast does yours find them?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsd #gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove"
+    "caption": "Indoor treasure hunt. 🔍\n\nHow fast does yours find them?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsd #gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2430123441124983",
+    "published_at_utc": "2026-11-16T15:32:25.475380+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17911543365584748"
   },
   {
     "day": 26,
