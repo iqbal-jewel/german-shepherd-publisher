@@ -4661,7 +4661,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794929400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: They'Re Very Trainable",
@@ -4673,7 +4673,13 @@
       "photographer": "manu mangalassery"
     },
     "duration": 12,
-    "caption": "Smart and eager. 🧠\n\nWhat's the smartest thing yours has done?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog"
+    "caption": "Smart and eager. 🧠\n\nWhat's the smartest thing yours has done?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdlife #germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1472560808168449",
+    "published_at_utc": "2026-11-17T15:32:26.812954+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18117147145845526"
   },
   {
     "day": 27,
