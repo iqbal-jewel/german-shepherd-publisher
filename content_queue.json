@@ -4631,7 +4631,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794918600,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "The Ball Hoarder",
@@ -4641,7 +4641,13 @@
       "kind": "photo",
       "id": 8169735,
       "photographer": "Saif Barbere"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122110520499530446",
+    "published_at_utc": "2026-11-17T12:30:35.735054+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18135651049667029"
   },
   {
     "day": 27,
