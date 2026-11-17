@@ -4599,7 +4599,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794882600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "The First Snowfall",
@@ -4611,7 +4611,13 @@
       "photographer": "ConfinedRiley"
     },
     "duration": 12,
-    "caption": "Snow zoomies are the purest joy. ❄️\n\nDoes yours love the snow?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog #gsdcommunity"
+    "caption": "Snow zoomies are the purest joy. ❄️\n\nDoes yours love the snow?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog #gsdcommunity",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2248148539064434",
+    "published_at_utc": "2026-11-17T02:31:41.661203+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18507101632100404"
   },
   {
     "day": 27,
