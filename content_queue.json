@@ -4569,7 +4569,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794875400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "wisdom",
     "title": "Snuffle Mat Brain Game",
@@ -4579,7 +4579,13 @@
       "kind": "photo",
       "id": 31461107,
       "photographer": "Connor Scott McManus"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122110338831530446",
+    "published_at_utc": "2026-11-17T00:30:57.155037+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18126811291910483"
   },
   {
     "day": 26,
