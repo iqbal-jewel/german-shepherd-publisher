@@ -4817,7 +4817,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795005000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Post-Bath Zoomies",
@@ -4827,7 +4827,13 @@
       "kind": "photo",
       "id": 10013055,
       "photographer": "Anton Kudryashov"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122110876869530446",
+    "published_at_utc": "2026-11-18T12:30:38.425198+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17996300202104251"
   },
   {
     "day": 28,
