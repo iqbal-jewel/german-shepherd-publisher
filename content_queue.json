@@ -4909,7 +4909,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795037400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Brush Their Teeth",
@@ -4921,7 +4921,13 @@
       "photographer": "Nothing Ahead"
     },
     "duration": 12,
-    "caption": "Fresh breath, healthy dog. 🦷\n\nDoes yours tolerate brushing?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdhumor #germanshepherdlove #velcrodog #gsdcommunity #shepherdlife"
+    "caption": "Fresh breath, healthy dog. 🦷\n\nDoes yours tolerate brushing?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdhumor #germanshepherdlove #velcrodog #gsdcommunity #shepherdlife",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "4212483149055679",
+    "published_at_utc": "2026-11-18T21:31:44.029690+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18650199247024893"
   },
   {
     "day": 28,
