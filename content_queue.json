@@ -4755,7 +4755,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794961800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "Their Most Iconic Head Tilt",
@@ -4765,7 +4765,13 @@
       "kind": "photo",
       "id": 38375213,
       "photographer": "Cara Denison"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122110697001530446",
+    "published_at_utc": "2026-11-18T00:31:16.207133+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17944210509398910"
   },
   {
     "day": 27,
