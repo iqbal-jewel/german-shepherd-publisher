@@ -4879,7 +4879,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795024800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "I've Got Your Back Eye Contact",
@@ -4889,7 +4889,13 @@
       "kind": "photo",
       "id": 16634310,
       "photographer": "Marco Biribò"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122110976103530446",
+    "published_at_utc": "2026-11-18T18:00:52.402777+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18154374706531707"
   },
   {
     "day": 28,
