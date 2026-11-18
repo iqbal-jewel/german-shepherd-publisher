@@ -4847,7 +4847,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795015800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "When You Hold A Slice Of Pizza",
@@ -4859,7 +4859,13 @@
       "photographer": "Yan Krukau"
     },
     "duration": 12,
-    "caption": "Not begging. Just supervising. 🍕\n\nHow long can yours hold the stare?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog #gsdcommunity"
+    "caption": "Not begging. Just supervising. 🍕\n\nHow long can yours hold the stare?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdfunny #gsdhumor #germanshepherdlove #velcrodog #gsdcommunity",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2103890603630687",
+    "published_at_utc": "2026-11-18T15:32:18.826413+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18028676915869337"
   },
   {
     "day": 28,
