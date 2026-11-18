@@ -4785,7 +4785,7 @@
       "instagram"
     ],
     "timestamp_unix": 1794969000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "When The Mailman Arrives",
@@ -4797,7 +4797,13 @@
       "photographer": "Nano Erdozain"
     },
     "duration": 12,
-    "caption": "Daily security briefing. 📬\n\nWho's your dog's nemesis?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdhumor #germanshepherdlove #velcrodog #gsdcommunity #shepherdlife"
+    "caption": "Daily security briefing. 📬\n\nWho's your dog's nemesis?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdhumor #germanshepherdlove #velcrodog #gsdcommunity #shepherdlife",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1794375698454917",
+    "published_at_utc": "2026-11-18T02:36:57.714807+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18419098528081013"
   },
   {
     "day": 28,
