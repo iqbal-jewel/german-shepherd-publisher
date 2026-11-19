@@ -4971,7 +4971,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795055400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Puppies Have 28 Teeth",
@@ -4983,7 +4983,13 @@
       "photographer": "Mahmoud Yahyaoui"
     },
     "duration": 12,
-    "caption": "Chew toys: essential. 🦷\n\nWhat did yours chew as a puppy?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes"
+    "caption": "Chew toys: essential. 🦷\n\nWhat did yours chew as a puppy?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1451615387170316",
+    "published_at_utc": "2026-11-19T02:31:28.560086+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18119527396821574"
   },
   {
     "day": 29,
