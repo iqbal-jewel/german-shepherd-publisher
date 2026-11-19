@@ -5033,7 +5033,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795102200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Carry Water On Long Walks",
@@ -5045,7 +5045,13 @@
       "photographer": "Olivia"
     },
     "duration": 12,
-    "caption": "Stay hydrated. 💧\n\nWhat's in your walk bag?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdhumor #germanshepherdlove #velcrodog #gsdcommunity #shepherdlife"
+    "caption": "Stay hydrated. 💧\n\nWhat's in your walk bag?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdhumor #germanshepherdlove #velcrodog #gsdcommunity #shepherdlife",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2245610403030611",
+    "published_at_utc": "2026-11-19T15:32:43.086402+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18090969077287013"
   },
   {
     "day": 29,
