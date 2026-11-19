@@ -5003,7 +5003,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795091400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Vacuum Standoff",
@@ -5013,7 +5013,13 @@
       "kind": "photo",
       "id": 12941719,
       "photographer": "Jim Varga"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122111210619530446",
+    "published_at_utc": "2026-11-19T12:31:19.896502+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18136743274673256"
   },
   {
     "day": 29,
