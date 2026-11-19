@@ -4941,7 +4941,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795048200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "wisdom",
     "title": "Hide-And-Seek Brain Game",
@@ -4951,7 +4951,13 @@
       "kind": "photo",
       "id": 9313625,
       "photographer": "Thirdman"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122111062527530446",
+    "published_at_utc": "2026-11-19T00:31:03.201815+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18425790985152525"
   },
   {
     "day": 28,
