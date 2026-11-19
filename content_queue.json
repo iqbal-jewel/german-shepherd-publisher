@@ -5095,7 +5095,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795123800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Bath Time",
@@ -5107,7 +5107,13 @@
       "photographer": "Alina Bystrova"
     },
     "duration": 12,
-    "caption": "Clean dog, wet human. 🛁\n\nHow does yours act after a bath?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes"
+    "caption": "Clean dog, wet human. 🛁\n\nHow does yours act after a bath?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1590269556476855",
+    "published_at_utc": "2026-11-19T21:31:48.356354+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18639009025054633"
   },
   {
     "day": 29,
