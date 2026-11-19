@@ -5065,7 +5065,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795111200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Loving This Breed Changes You",
@@ -5075,7 +5075,13 @@
       "kind": "photo",
       "id": 16337798,
       "photographer": "Irina Solianyk"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122111279211530446",
+    "published_at_utc": "2026-11-19T18:01:05.293958+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18110087420574031"
   },
   {
     "day": 29,
