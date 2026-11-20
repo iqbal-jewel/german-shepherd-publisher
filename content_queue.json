@@ -5281,7 +5281,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795210200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Early Shepherds Were Often Sable",
@@ -5293,7 +5293,13 @@
       "photographer": "Barnabas Davoti"
     },
     "duration": 12,
-    "caption": "A look back at the breed. 🐺\n\nIs your shepherd sable?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday"
+    "caption": "A look back at the breed. 🐺\n\nIs your shepherd sable?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1614752290696978",
+    "published_at_utc": "2026-11-20T21:31:43.939551+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18112440601915948"
   },
   {
     "day": 30,
