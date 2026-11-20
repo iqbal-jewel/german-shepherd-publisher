@@ -5219,7 +5219,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795188600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Never Leave Dogs In A Car",
@@ -5231,7 +5231,13 @@
       "photographer": "Michele Friend"
     },
     "duration": 12,
-    "caption": "Please share this. 🚗\n\nTag a dog owner.\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes"
+    "caption": "Please share this. 🚗\n\nTag a dog owner.\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdlove #velcrodog #gsdcommunity #shepherdlife #dogmemes",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2196052644335756",
+    "published_at_utc": "2026-11-20T15:33:31.531775+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17887739118511635"
   },
   {
     "day": 30,
