@@ -5127,7 +5127,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795134600,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "When Did The Land Shark Phase End?",
@@ -5137,7 +5137,13 @@
       "kind": "photo",
       "id": 24409111,
       "photographer": "William Sutherland"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122111387577530446",
+    "published_at_utc": "2026-11-20T00:31:07.867426+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18091098134705024"
   },
   {
     "day": 29,
