@@ -5468,7 +5468,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795298400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Long-Coat Shepherds Exist",
@@ -5480,7 +5480,13 @@
       "photographer": "Kanashi"
     },
     "duration": 12,
-    "caption": "Extra fluff, extra love. 🧸\n\nShort coat or long coat?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub"
+    "caption": "Extra fluff, extra love. 🧸\n\nShort coat or long coat?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1687564322943334",
+    "published_at_utc": "2026-11-21T22:02:32.404034+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18128981060316750"
   },
   {
     "day": 31,
