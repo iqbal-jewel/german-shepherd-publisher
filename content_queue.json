@@ -5406,7 +5406,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795278600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Teach 'Settle'",
@@ -5418,7 +5418,13 @@
       "photographer": "Nano Erdozain"
     },
     "duration": 12,
-    "caption": "Calm on cue. 🧘\n\nCan yours settle?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday"
+    "caption": "Calm on cue. 🧘\n\nCan yours settle?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#velcrodog #gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "3396289273912728",
+    "published_at_utc": "2026-11-21T16:32:24.774639+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18081864761407451"
   },
   {
     "day": 31,
