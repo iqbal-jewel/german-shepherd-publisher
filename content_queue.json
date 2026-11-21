@@ -5343,7 +5343,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795228200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "Please Put The Ball Down",
@@ -5360,7 +5360,9 @@
     "last_error": "facebook: HTTP 500: {\"error\":{\"code\":1,\"message\":\"Please reduce the amount of data you're asking for, then retry your request\"}}",
     "instagram_published": true,
     "ig_live_id": "18291050851295979",
-    "published_at_utc": "2026-11-21T02:31:45.959420+00:00"
+    "published_at_utc": "2026-11-21T02:31:45.959420+00:00",
+    "facebook_published": true,
+    "fb_live_id": "1083808024696060"
   },
   {
     "day": 31,
