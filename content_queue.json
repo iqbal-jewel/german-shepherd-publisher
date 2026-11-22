@@ -5530,7 +5530,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795314600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "When You Close The Door",
@@ -5542,7 +5542,13 @@
       "photographer": "Keller Chewning"
     },
     "duration": 12,
-    "caption": "Closed doors are a personal insult. 🚪\n\nDoes yours wait outside?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom"
+    "caption": "Closed doors are a personal insult. 🚪\n\nDoes yours wait outside?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1679742470615546",
+    "published_at_utc": "2026-11-22T02:32:13.894812+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18102948476428299"
   },
   {
     "day": 32,
