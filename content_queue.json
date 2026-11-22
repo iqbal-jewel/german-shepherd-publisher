@@ -5624,7 +5624,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795372200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Why Shepherds Become K9 Partners",
@@ -5634,7 +5634,13 @@
       "kind": "photo",
       "id": 14026842,
       "photographer": "Sabine Kösters"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122112319263530446",
+    "published_at_utc": "2026-11-22T18:30:18.846030+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18348882412251733"
   },
   {
     "day": 32,
