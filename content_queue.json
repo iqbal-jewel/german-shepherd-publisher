@@ -5562,7 +5562,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795356000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "The 95 lb Lap Dog Delusion",
@@ -5572,7 +5572,13 @@
       "kind": "photo",
       "id": 18436634,
       "photographer": "Elina Volkova"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122112245841530446",
+    "published_at_utc": "2026-11-22T14:01:10.485538+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18135719101811573"
   },
   {
     "day": 32,
