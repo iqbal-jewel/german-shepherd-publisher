@@ -5654,7 +5654,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795384800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Rotate Their Toys",
@@ -5666,7 +5666,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Same toys, fresh fun. 🧸\n\nWhat's your dog's top toy?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom"
+    "caption": "Same toys, fresh fun. 🧸\n\nWhat's your dog's top toy?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2354250002029093",
+    "published_at_utc": "2026-11-22T22:02:08.013468+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18359101708173053"
   },
   {
     "day": 32,
