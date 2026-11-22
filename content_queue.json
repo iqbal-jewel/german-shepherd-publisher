@@ -5592,7 +5592,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795365000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "The 'I Didn'T Do It' Face",
@@ -5604,7 +5604,13 @@
       "photographer": "Alessandro Ceracchi"
     },
     "duration": 12,
-    "caption": "Innocent until proven fluffy. 😇\n\nWhat has yours destroyed?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub"
+    "caption": "Innocent until proven fluffy. 😇\n\nWhat has yours destroyed?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdcommunity #shepherdlife #dogmemes #germanshepherdoftheday #pointyearsclub",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1136516308998061",
+    "published_at_utc": "2026-11-22T16:31:59.302668+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17926429068443969"
   },
   {
     "day": 32,
