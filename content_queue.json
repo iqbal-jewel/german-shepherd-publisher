@@ -5748,7 +5748,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795437000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Cheese Wrapper Radar",
@@ -5758,7 +5758,13 @@
       "kind": "photo",
       "id": 15834079,
       "photographer": "Saleh  Bakhshiyev"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122112548535530446",
+    "published_at_utc": "2026-11-23T12:30:24.838498+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18107285195322029"
   },
   {
     "day": 33,
