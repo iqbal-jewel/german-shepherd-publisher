@@ -5716,7 +5716,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795401000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs Sleep A Lot",
@@ -5728,7 +5728,13 @@
       "photographer": "Morten H. Hansen"
     },
     "duration": 12,
-    "caption": "Rest is serious business. 😴\n\nWhere does yours nap?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld"
+    "caption": "Rest is serious business. 😴\n\nWhere does yours nap?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1675305880788488",
+    "published_at_utc": "2026-11-23T02:32:37.927962+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18037163510890021"
   },
   {
     "day": 33,
