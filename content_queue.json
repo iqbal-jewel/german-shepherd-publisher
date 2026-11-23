@@ -5810,7 +5810,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795456800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "Black And Tan Saddle Pride",
@@ -5820,7 +5820,13 @@
       "kind": "photo",
       "id": 2373881,
       "photographer": "Charlie Solorzano"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122112651255530446",
+    "published_at_utc": "2026-11-23T18:00:44.536127+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18443876488198282"
   },
   {
     "day": 33,
