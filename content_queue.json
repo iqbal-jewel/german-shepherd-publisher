@@ -5840,7 +5840,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795469400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Use A Harness For Strong Pullers",
@@ -5852,7 +5852,13 @@
       "photographer": "RDNE Stock project"
     },
     "duration": 12,
-    "caption": "Comfort and control. 🦮\n\nHarness or collar?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld"
+    "caption": "Comfort and control. 🦮\n\nHarness or collar?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1493530292875978",
+    "published_at_utc": "2026-11-23T21:32:27.902048+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18119369519017264"
   },
   {
     "day": 33,
