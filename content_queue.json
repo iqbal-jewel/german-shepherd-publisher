@@ -5934,7 +5934,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795523400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Assembled Without Instructions",
@@ -5944,7 +5944,13 @@
       "kind": "photo",
       "id": 6298553,
       "photographer": "Emily Fuller"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122112890175530446",
+    "published_at_utc": "2026-11-24T12:30:32.736448+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17906848431606803"
   },
   {
     "day": 34,
