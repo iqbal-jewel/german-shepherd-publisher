@@ -5996,7 +5996,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795543200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "All-Black Shepherds Appreciation",
@@ -6006,7 +6006,13 @@
       "kind": "photo",
       "id": 18697042,
       "photographer": "Marian Havenga"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122112950121530446",
+    "published_at_utc": "2026-11-24T18:01:01.904167+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18132947656867448"
   },
   {
     "day": 34,
