@@ -5964,7 +5964,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795534200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: They Served In World War I",
@@ -5976,7 +5976,13 @@
       "photographer": "Thirdman"
     },
     "duration": 12,
-    "caption": "Service dogs from the start. 🎖️\n\nThank you to all K9s. 🇺🇸\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld"
+    "caption": "Service dogs from the start. 🎖️\n\nThank you to all K9s. 🇺🇸\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#dogmemes #germanshepherdoftheday #pointyearsclub #germanshepherdmom #gsdworld",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1455575052789718",
+    "published_at_utc": "2026-11-24T15:32:39.057416+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18135039097803439"
   },
   {
     "day": 34,
