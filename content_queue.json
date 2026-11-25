@@ -6088,7 +6088,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795573800,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Keep Them At A Healthy Weight",
@@ -6100,7 +6100,13 @@
       "photographer": "Галина Ласаева"
     },
     "duration": 12,
-    "caption": "Healthy weight, happy joints. 🏃\n\nWhen was their last checkup?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog"
+    "caption": "Healthy weight, happy joints. 🏃\n\nWhen was their last checkup?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1187828953804284",
+    "published_at_utc": "2026-11-25T02:32:03.141754+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18096378353669471"
   },
   {
     "day": 35,
