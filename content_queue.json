@@ -6212,7 +6212,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795642200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Warm Up Before Big Play",
@@ -6224,7 +6224,13 @@
       "photographer": "Jana Ohajdova"
     },
     "duration": 12,
-    "caption": "Warm-up matters. 🎾\n\nDo you warm up?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog"
+    "caption": "Warm-up matters. 🎾\n\nDo you warm up?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1698636811883921",
+    "published_at_utc": "2026-11-25T21:31:38.956341+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18484456267115576"
   },
   {
     "day": 35,
