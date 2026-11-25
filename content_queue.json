@@ -6120,7 +6120,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795609800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Friday Fur Report",
@@ -6130,7 +6130,13 @@
       "kind": "photo",
       "id": 37387408,
       "photographer": "Alejandro Calcaterra"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122113175991530446",
+    "published_at_utc": "2026-11-25T12:30:45.117416+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17967131016233071"
   },
   {
     "day": 35,
