@@ -6306,7 +6306,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795696200,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Treat Math",
@@ -6316,7 +6316,13 @@
       "kind": "photo",
       "id": 16153421,
       "photographer": "Saleh  Bakhshiyev"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122113451829530446",
+    "published_at_utc": "2026-11-26T12:30:46.345393+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18081265922732743"
   },
   {
     "day": 36,
