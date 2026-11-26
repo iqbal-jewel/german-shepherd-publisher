@@ -6336,7 +6336,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795707000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Ears Are Expressive",
@@ -6348,7 +6348,13 @@
       "photographer": "Dmytro Glazunov"
     },
     "duration": 12,
-    "caption": "Radar ears activated. 📡\n\nWhat do yours say?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog"
+    "caption": "Radar ears activated. 📡\n\nWhat do yours say?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#pointyearsclub #germanshepherdmom #gsdworld #funnydogvideos #workingdog",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1673588887540271",
+    "published_at_utc": "2026-11-26T15:32:20.109881+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18111323018292256"
   },
   {
     "day": 36,
