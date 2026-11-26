@@ -6274,7 +6274,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795660200,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "When The Treat Bag Crinkles",
@@ -6286,7 +6286,13 @@
       "photographer": "Paul Groom Photography Bristol"
     },
     "duration": 12,
-    "caption": "Treat radar never fails. 🍖\n\nWhat sound gets yours running?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #germanshepherd #gsd"
+    "caption": "Treat radar never fails. 🍖\n\nWhat sound gets yours running?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #germanshepherd #gsd",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1706297644341389",
+    "published_at_utc": "2026-11-26T02:32:00.499017+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18230406439332623"
   },
   {
     "day": 36,
