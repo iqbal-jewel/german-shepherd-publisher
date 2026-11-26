@@ -6244,7 +6244,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795653000,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "seasonal",
     "title": "Thanksgiving Foods Dogs Should Avoid",
@@ -6254,7 +6254,13 @@
       "kind": "photo",
       "id": 10786378,
       "photographer": "Velroy Fernandes"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122113319349530446",
+    "published_at_utc": "2026-11-26T00:31:12.500229+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18116930771145411"
   },
   {
     "day": 35,
