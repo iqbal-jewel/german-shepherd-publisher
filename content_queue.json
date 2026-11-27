@@ -6460,7 +6460,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795746600,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Allow Rest After Meals",
@@ -6472,7 +6472,13 @@
       "photographer": "Ivan S"
     },
     "duration": 12,
-    "caption": "Better safe than sorry. 🩺\n\nWhat does your vet say?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #workingdog #gsdheritage #canislupus"
+    "caption": "Better safe than sorry. 🩺\n\nWhat does your vet say?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #workingdog #gsdheritage #canislupus",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "974468925459053",
+    "published_at_utc": "2026-11-27T02:31:38.127975+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18107801234633996"
   },
   {
     "day": 37,
