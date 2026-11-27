@@ -6584,7 +6584,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795815000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_fact",
     "title": "Fact: Dogs Can Read Our Faces",
@@ -6596,7 +6596,13 @@
       "photographer": "Edias Vandirai"
     },
     "duration": 12,
-    "caption": "They know when we're sad. 🥹\n\nHas yours ever comforted you?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #workingdog #gsdheritage #canislupus"
+    "caption": "They know when we're sad. 🥹\n\nHas yours ever comforted you?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#gsdworld #funnydogvideos #workingdog #gsdheritage #canislupus",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1621104573084381",
+    "published_at_utc": "2026-11-27T21:32:30.147598+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18105769565560300"
   },
   {
     "day": 37,
