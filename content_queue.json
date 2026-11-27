@@ -6492,7 +6492,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795782600,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Backseat Driver",
@@ -6502,7 +6502,13 @@
       "kind": "photo",
       "id": 32350367,
       "photographer": "Maksim Romashkin"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122113728951530446",
+    "published_at_utc": "2026-11-27T12:30:17.663788+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17902095192398825"
   },
   {
     "day": 37,
