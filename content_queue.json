@@ -6430,7 +6430,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795739400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "seasonal",
     "title": "What Is Your Shepherd Thankful For?",
@@ -6440,7 +6440,13 @@
       "kind": "photo",
       "id": 13042716,
       "photographer": "Aliaksei Semirski"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122113572669530446",
+    "published_at_utc": "2026-11-27T00:31:08.682865+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18136811980667412"
   },
   {
     "day": 36,
