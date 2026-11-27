@@ -6554,7 +6554,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795802400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "loyalty/pride",
     "title": "White Shepherds Appreciation",
@@ -6564,7 +6564,13 @@
       "kind": "photo",
       "id": 6209949,
       "photographer": "Yan Krukau"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122113803309530446",
+    "published_at_utc": "2026-11-27T18:00:43.080362+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17980318491138725"
   },
   {
     "day": 37,
