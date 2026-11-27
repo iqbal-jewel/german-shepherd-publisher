@@ -6522,7 +6522,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795793400,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_humor",
     "title": "When You Pretend To Leave",
@@ -6534,7 +6534,13 @@
       "photographer": "Anton Kudryashov"
     },
     "duration": 12,
-    "caption": "Oscar-worthy. 🎬\n\nDoes yours do the sad goodbye?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #germanshepherd #gsd"
+    "caption": "Oscar-worthy. 🎬\n\nDoes yours do the sad goodbye?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#germanshepherdmom #gsdworld #funnydogvideos #germanshepherd #gsd",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1451973640426904",
+    "published_at_utc": "2026-11-27T15:32:20.601787+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17973330600195502"
   },
   {
     "day": 37,
