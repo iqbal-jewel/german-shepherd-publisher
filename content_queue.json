@@ -6646,7 +6646,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795833000,
-    "status": "ready",
+    "status": "published",
     "type": "reel",
     "content_type": "reel_tip",
     "title": "Tip: Praise Calm Behavior",
@@ -6658,7 +6658,13 @@
       "photographer": "Michaël Meyer"
     },
     "duration": 12,
-    "caption": "Reward what you want more of. 🥰\n\nWhen was yours calm today?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #workingdog #gsdheritage #canislupus #shepherdpower"
+    "caption": "Reward what you want more of. 🥰\n\nWhen was yours calm today?\n\nFollow @germanshepherdco for daily German Shepherd content 🐾\n\n#funnydogvideos #workingdog #gsdheritage #canislupus #shepherdpower",
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "2060320074606684",
+    "published_at_utc": "2026-11-28T02:32:14.424595+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18122115907960487"
   },
   {
     "day": 38,
