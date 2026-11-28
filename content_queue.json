@@ -6616,7 +6616,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795825800,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "community",
     "title": "Friday Photo Thread",
@@ -6626,7 +6626,13 @@
       "kind": "photo",
       "id": 19612874,
       "photographer": "Simeon Stoilov"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122113883355530446",
+    "published_at_utc": "2026-11-28T00:30:50.653038+00:00",
+    "instagram_published": true,
+    "ig_live_id": "17954320734349218"
   },
   {
     "day": 37,
