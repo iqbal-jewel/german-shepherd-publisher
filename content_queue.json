@@ -6678,7 +6678,7 @@
       "instagram"
     ],
     "timestamp_unix": 1795874400,
-    "status": "ready",
+    "status": "published",
     "type": "image",
     "content_type": "humor",
     "title": "Lint Roller Count",
@@ -6688,7 +6688,13 @@
       "kind": "photo",
       "id": 36239617,
       "photographer": "Malama Mushitu"
-    }
+    },
+    "attempts": 1,
+    "facebook_published": true,
+    "fb_live_id": "1393452917180828_122114020221530446",
+    "published_at_utc": "2026-11-28T14:00:58.288501+00:00",
+    "instagram_published": true,
+    "ig_live_id": "18081122144465290"
   },
   {
     "day": 38,
